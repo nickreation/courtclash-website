@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "title": "Court Clash – App de baloncesto 1 contra 1",
+    "description": "La app que convierte cada cancha de baloncesto en una arena de competición 1 contra 1. Escanea el código QR de tu rival, lanza el desafío, registra tus puntuaciones.",
+    "ogDescription": "Escanea el código QR de tu rival, lanza el desafío y sube en el ranking."
+  },
+  "nav": {
+    "features": "Funciones",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "socialLabel": "Redes sociales",
+    "googlePlay": "Disponible en Google Play",
+    "appStore": "Descargar en App Store",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú"
+  },
+  "hero": {
+    "title1": "La app de BALONCESTO",
+    "title2": "1 contra 1",
+    "intro": "Bienvenido a Court Clash, la app que convierte cada cancha de baloncesto en una arena de competición 1 contra 1.",
+    "cta": "Olvídate de los largos preparativos: escanea el código QR de tu rival directamente en la cancha, lanza el desafío y registra tus puntuaciones en tiempo real.",
+    "imageAlt": "Acción de juego de baloncesto"
+  },
+  "sections": {
+    "appAvailable": "La app está disponible",
+    "videoGameplay": "Ver el juego",
+    "videoDrone": "Vista drone de la cancha",
+    "king": {
+      "title": "Conviértete en el rey del 1 contra 1",
+      "body": "Acumula victorias en tu cancha favorita e impón tu dominio. Cuanto más ganes, más dura tu reinado. ¿Serás capaz de mantener la corona frente a los rivales?",
+      "imageAlt": "Partido de baloncesto al aire libre"
+    },
+    "testimonials": {
+      "title": "Testimonios",
+      "yohan": "App intuitiva, permite retar a otros jugadores en un momento, esté donde esté",
+      "clara": "Una forma genial de mantenerse activa y conocer a otras apasionadas del baloncesto.",
+      "omar": "Encontrar rivales o amigos para partidos rápidos es muy fácil con esta app."
+    },
+    "ranking": {
+      "title": "Sube en el ranking",
+      "body": "Sigue tu ascenso en tiempo real y mídelos con los mejores. Cada victoria te acerca a la cima, cada partido es una oportunidad para subir. ¿Listo para dominar el ranking?"
+    },
+    "blog": { "title": "Blog", "seeFull": "Ver el blog" },
+    "faq": { "title": "FAQ", "seeFull": "Ver toda la FAQ" },
+    "termsPage": {
+      "title": "Términos de uso",
+      "backToHome": "Volver al inicio",
+      "intro": "Bienvenido a nuestro sitio web. Al acceder a este sitio, acepta estos términos de uso. Léalos atentamente antes de continuar.",
+      "closing": "Al seguir utilizando nuestro sitio, acepta estos términos en su totalidad. Gracias por su confianza y su visita.",
+      "sections": [
+        { "title": "Aceptación de los términos", "body": "Al utilizar este sitio, reconoce haber leído estos términos de uso y se compromete a cumplirlos. Si no los acepta, no utilice nuestro sitio." },
+        { "title": "Uso del sitio", "body": "El contenido de este sitio se proporciona únicamente con fines informativos. Se compromete a utilizar este sitio de conformidad con las leyes y normativas aplicables. Cualquier uso fraudulento, abusivo o ilegal está estrictamente prohibido." },
+        { "title": "Propiedad intelectual", "body": "Todo el contenido de este sitio, incluidos textos, imágenes, logotipos, vídeos y gráficos, está protegido por derechos de autor y otros derechos de propiedad intelectual. Cualquier reproducción, modificación, distribución o uso no autorizado está estrictamente prohibido." },
+        { "title": "Responsabilidad", "body": "Nos esforzamos por ofrecer información exacta y actualizada, pero no podemos garantizar la exactitud o exhaustividad de la información en este sitio. Declinamos toda responsabilidad por errores, omisiones o resultados derivados del uso de esta información." },
+        { "title": "Enlaces externos", "body": "Nuestro sitio puede contener enlaces a sitios de terceros. No somos responsables del contenido de estos sitios, sus prácticas o su disponibilidad. El acceso a estos sitios es bajo su propia responsabilidad." },
+        { "title": "Modificaciones de los términos", "body": "Nos reservamos el derecho de modificar estos términos de uso en cualquier momento. Los cambios entrarán en vigor al publicarse en esta página. Le invitamos a consultar esta página con regularidad para estar al día." },
+        { "title": "Contacto", "body": "Para cualquier pregunta sobre estos términos de uso, puede contactarnos a través de la información disponible en nuestra página de contacto." }
+      ]
+    },
+    "privacyPage": {
+      "title": "Política de privacidad",
+      "backToHome": "Volver al inicio",
+      "intro": "Esta política de privacidad se aplica a la app Court Clash y a nuestro sitio web. Explica qué datos personales recopilamos, cómo los utilizamos y cuáles son sus derechos según el RGPD.",
+      "closing": "Podemos actualizar esta política para reflejar cambios en nuestros servicios o en la normativa. Le invitamos a revisarla con regularidad. Para cualquier pregunta, puede escribirnos a contact@courtclash.app.",
+      "sections": [
+        {
+          "title": "1. Introducción",
+          "body": "Esta política de privacidad tiene como objetivo informarle de forma clara y transparente sobre cómo Court Clash trata sus datos personales cuando utiliza el Servicio (la app Court Clash y los servicios asociados)."
+        },
+        {
+          "title": "2. Definiciones",
+          "body": "«Servicio» hace referencia a la app Court Clash y sus funcionalidades (creación de cuenta, búsqueda de canchas, organización de partidos, notificaciones, etc.). «Datos personales» son toda información relativa a una persona física identificada o identificable, como una dirección de correo electrónico, un identificador de dispositivo o datos de ubicación."
+        },
+        {
+          "title": "3. Principios generales",
+          "body": "Tratamos sus datos conforme al Reglamento General de Protección de Datos (RGPD) y a la legislación aplicable. Los tratamientos se basan en bases jurídicas definidas, tienen finalidades explícitas, se limitan a lo necesario, se conservan durante un plazo adecuado y están protegidos mediante medidas de seguridad apropiadas."
+        },
+        {
+          "title": "4. Datos recopilados y forma de recopilación",
+          "body": "Recopilamos los datos que nos proporciona directamente al crear y gestionar su cuenta: correo electrónico, nombre, fecha de nacimiento, país, ciudad y sus preferencias (por ejemplo, la geolocalización si la activa para encontrar canchas cercanas). También recopilamos automáticamente ciertos datos técnicos necesarios para el correcto funcionamiento y la seguridad del Servicio (identificadores de dispositivo, registros técnicos, sistema operativo) y un identificador de notificación (Expo Push Token) para enviarle notificaciones push."
+        },
+        {
+          "title": "5. Finalidades del tratamiento",
+          "body": "Utilizamos sus datos para: crear y gestionar su cuenta de usuario, proporcionar las funcionalidades del Servicio (búsqueda de canchas, organización y seguimiento de partidos, gestión del ranking), enviarle notificaciones sobre sus partidos, su cuenta o su progreso, mejorar el Servicio mediante análisis internos, asegurar nuestra infraestructura y prevenir el fraude, y responder a sus solicitudes de soporte."
+        },
+        {
+          "title": "6. Bases jurídicas",
+          "body": "Según el caso, el tratamiento de sus datos se basa en: la ejecución del contrato (aceptación de los Términos de uso para utilizar el Servicio), su consentimiento (por ejemplo, para la ubicación o ciertas notificaciones), el cumplimiento de obligaciones legales o nuestro interés legítimo (seguridad del Servicio, prevención de abusos, mejora de funcionalidades). Cuando el tratamiento se basa en su consentimiento, puede retirarlo en cualquier momento desde los ajustes de su dispositivo o de la app."
+        },
+        {
+          "title": "7. Destinatarios y compartición de datos",
+          "body": "Sus datos son accesibles para los miembros autorizados del equipo Court Clash, dentro del marco de sus funciones. También recurrimos a proveedores técnicos para el alojamiento (por ejemplo, Supabase) y el envío de notificaciones push (Expo). Estos proveedores actúan siguiendo instrucciones de Court Clash y no pueden usar sus datos para otras finalidades. No vendemos sus datos a terceros. En caso de transferencias fuera de la Unión Europea, aplicamos las garantías adecuadas (incluidas las cláusulas contractuales tipo aprobadas por la Comisión Europea)."
+        },
+        {
+          "title": "8. Conservación de los datos",
+          "body": "Conservamos sus datos mientras utilice activamente el Servicio. En caso de inactividad prolongada, los datos pueden archivarse durante un máximo de tres años antes de ser eliminados o anonimizados, salvo obligación legal de conservación más larga. Los identificadores de notificación (tokens push) se eliminan en cuanto retira su consentimiento a las notificaciones o elimina su cuenta."
+        },
+        {
+          "title": "9. Sus derechos",
+          "body": "De acuerdo con la normativa aplicable, dispone de los derechos de acceso, rectificación, supresión, limitación del tratamiento, oposición, portabilidad de los datos y de no ser objeto de una decisión basada únicamente en el tratamiento automatizado. Puede ejercer estos derechos escribiéndonos a contact@courtclash.app. Responderemos en el plazo de un mes, previa verificación de su identidad."
+        },
+        {
+          "title": "10. Eliminación de la cuenta y revocación de permisos",
+          "body": "Puede eliminar su cuenta en cualquier momento desde los ajustes de la app o contactándonos. También puede desactivar la recopilación de ciertos datos, como la ubicación o las notificaciones push, directamente desde los ajustes de su dispositivo o de la app. La eliminación de su cuenta conlleva la eliminación o anonimización de sus datos, salvo aquellos que debamos conservar por motivos legales o de prueba."
+        },
+        {
+          "title": "11. Privacidad de los menores",
+          "body": "El Servicio no está destinado a menores de 15 años. No recopilamos conscientemente datos personales de menores que no cumplan este requisito de edad. Si tenemos conocimiento de que se ha creado una cuenta en contra de esta regla, tomaremos las medidas necesarias para eliminar los datos correspondientes."
+        },
+        {
+          "title": "12. Seguridad",
+          "body": "Aplicamos medidas técnicas y organizativas apropiadas para proteger sus datos frente a la pérdida, el uso indebido, el acceso no autorizado, la divulgación o la modificación. Las comunicaciones con nuestros servidores están protegidas mediante protocolos cifrados (HTTPS/TLS) y el acceso a los datos se limita a las personas que los necesitan en el marco de sus funciones."
+        },
+        {
+          "title": "13. Cambios en esta política de privacidad",
+          "body": "Podemos modificar esta política de privacidad para reflejar cambios en el Servicio, requisitos legales o reglamentarios, o nuestras prácticas internas. La fecha de la última actualización figura al final de la versión publicada en nuestro sitio web. Le invitamos a consultar periódicamente esta página."
+        }
+      ]
+    },
+    "cookiesPage": {
+      "title": "Política de cookies (UE)",
+      "backToHome": "Volver al inicio",
+      "intro": "Esta política de cookies se actualizó por última vez el 25 de febrero de 2025 y se aplica a ciudadanos y residentes permanentes legales del Espacio Económico Europeo y Suiza. Nuestro sitio https://www.courtclash.app utiliza cookies y tecnologías afines (en adelante, todas se denominan «cookies»). También se colocan cookies por terceros que hemos contratado. A continuación le informamos sobre el uso de cookies en nuestro sitio.",
+      "closing": "Esta política de cookies se sincronizó con cookiedatabase.org el 25/02/2025.",
+      "sections": [
+        { "title": "¿Qué son las cookies?", "body": "Una cookie es un pequeño archivo que se envía con las páginas de este sitio y se almacena en su navegador en el disco duro de su ordenador o dispositivo. La información almacenada puede ser devuelta a nuestros servidores o a los de terceros en una visita posterior." },
+        { "title": "¿Qué son los scripts?", "body": "Un script es un fragmento de código utilizado para que nuestro sitio funcione correctamente y de forma interactiva. Este código se ejecuta en nuestro servidor o en su dispositivo." },
+        { "title": "¿Qué es una etiqueta invisible?", "body": "Una etiqueta invisible (o baliza web) es un pequeño fragmento de texto o imagen invisible en un sitio web, utilizado para rastrear el tráfico. Para ello se almacenan diversos datos sobre usted mediante etiquetas invisibles." },
+        { "title": "Cookies técnicas o funcionales", "body": "Algunas cookies garantizan el correcto funcionamiento de ciertas partes del sitio y el registro de sus preferencias. Al colocar cookies funcionales, facilitamos su visita. No es necesario introducir la misma información repetidamente. Podemos colocar estas cookies sin su consentimiento." },
+        { "title": "Cookies de marketing/seguimiento", "body": "Las cookies de marketing/seguimiento son cookies u otra forma de almacenamiento local utilizadas para crear perfiles de usuario con el fin de mostrar publicidad o rastrear al usuario en este sitio o en varios sitios con fines de marketing similares." },
+        { "title": "Redes sociales", "body": "En nuestro sitio hemos incluido contenido de Instagram, Facebook y TikTok para promocionar páginas o compartirlas en estas redes. Este contenido se integra mediante código de estas plataformas y coloca cookies. Puede almacenar y procesar cierta información con fines de publicidad personalizada. Lea las declaraciones de privacidad de estas plataformas. Los datos se anonimizan en la medida de lo posible. Instagram, Facebook y TikTok están en Estados Unidos." },
+        { "title": "Cookies colocadas", "body": "Utilizamos cookies relacionadas con el consentimiento (cmplz_functional, cmplz_preferences, cmplz_marketing, etc.) con una duración de 365 días, así como cookies técnicas de la plataforma. Para más detalles puede consultar la configuración de su navegador o contactarnos." },
+        { "title": "Consentimiento", "body": "Cuando visite nuestro sitio por primera vez, le mostramos una ventana emergente con una explicación sobre las cookies. Al hacer clic en «Guardar preferencias» nos autoriza a utilizar las categorías de cookies que haya seleccionado. Puede desactivar las cookies en su navegador; tenga en cuenta que el sitio podría no funcionar correctamente." },
+        { "title": "Activar, desactivar y eliminar cookies", "body": "Puede usar su navegador para eliminar cookies automática o manualmente. También puede especificar que no se coloquen ciertas cookies, o modificar la configuración para recibir un aviso cada vez que se coloque una cookie. Consulte la sección de ayuda de su navegador. Si desactiva todas las cookies, el sitio podría no funcionar correctamente." },
+        { "title": "Sus derechos sobre los datos personales", "body": "Tiene derecho a saber por qué se necesitan sus datos personales, qué ocurrirá con ellos y cuánto tiempo se conservarán. Derecho de acceso, rectificación, supresión, revocación del consentimiento, portabilidad y oposición. Para ejercer estos derechos, póngase en contacto con nosotros. También puede presentar una reclamación ante la autoridad de control." },
+        { "title": "Contacto", "body": "Para preguntas o comentarios sobre nuestra política de cookies: CourtClash, 2 Rue Saint Gilles, 22000 Saint Brieuc – Francia. Sitio web: https://www.courtclash.app. Correo: contact@courtclash.app" }
+      ]
+    },
+    "faqPage": {
+      "title": "FAQ",
+      "backToHome": "Volver al inicio",
+      "intro": "Descubre cómo iniciar partidos, seguir tus puntuaciones en tiempo real y subir en el ranking con nuestra plataforma intuitiva.",
+      "howItWorksTitle": "¿Cómo funciona CourtClash?",
+      "howItWorksSubtitle": "Descubre cómo aceptar desafíos, seguir tus puntuaciones y subir en el ranking paso a paso.",
+      "steps": [
+        { "number": "1", "title": "Crea tu perfil", "body": "Regístrate y personaliza tu perfil para empezar a desafiar a otros aficionados al streetball." },
+        { "number": "2", "title": "Lanzar un partido", "body": "Desafía a un rival, seguid las reglas, jugad y añade tu puntuación." },
+        { "number": "3", "title": "Seguir tus resultados", "body": "Consulta los resultados en tiempo real y mejora tu posición en el ranking." }
+      ],
+      "learnMore": "Saber más",
+      "testimonialQuote": "CourtClash me motivó a jugar más partidos contra jugadores que no conocía. Que cada puntuación quede registrada hace cada partido más intenso y emocionante.",
+      "testimonialAuthor": "Bobballmurda",
+      "testimonialRole": "Baller en París",
+      "ctaTitle": "Acepta el desafío CourtClash hoy.",
+      "ctaSubtitle": "Descubre cómo CourtClash.app convierte tus partidos de streetball en competiciones dinámicas.",
+      "ctaBullets": ["Desafíos en tiempo real", "Seguimiento de puntuaciones", "Rankings globales", "Comunidad activa"],
+      "ctaButton": "Sumérgete en la experiencia",
+      "items": [
+        { "question": "¿Qué es Court Clash?", "answer": "Court Clash es una app móvil que te permite crear y jugar partidos de baloncesto 1 contra 1 cerca de ti." },
+        { "question": "¿Court Clash es gratuito?", "answer": "¡Sí! La app es totalmente gratuita. Puedes registrarte, jugar y seguir tu ranking sin coste." },
+        { "question": "¿En qué dispositivos está disponible?", "answer": "Court Clash está disponible en iOS y Android. En Francia, Luxemburgo y Bélgica." },
+        { "question": "¿Cómo creo una cuenta?", "answer": "Descarga la app y elige « Crear cuenta ». Puedes registrarte con tu email." },
+        { "question": "¿Cómo edito mi perfil?", "answer": "Ve a Perfil → Editar para actualizar foto y nombre de usuario." },
+        { "question": "He olvidado mi contraseña.", "answer": "¡Tranquilo! Pulsa « Contraseña olvidada » en la pantalla de inicio y sigue el enlace que recibirás por email." },
+        { "question": "¿Cómo creo un partido?", "answer": "En la pantalla principal, pulsa « Jugar », escanea el código QR del rival y pulsa « crear partido »." },
+        { "question": "¿Cómo funciona el ranking?", "answer": "Cada victoria te da puntos. Cuanto más juegues, más subes. El sistema también tiene en cuenta el nivel del rival." },
+        { "question": "¿Cómo veo las canchas cerca de mí?", "answer": "Activa la ubicación en el móvil y la app te mostrará las canchas disponibles." },
+        { "question": "¿Puedo proponer una cancha nueva?", "answer": "¡Sí! Si conoces una cancha no listada, ve a Cancha → Añadir cancha y rellena los datos." },
+        { "question": "¿Cómo contacto al equipo de Court Clash?", "answer": "Desde la app (Perfil → Soporte) o por email a support@courtclash.app. Respondemos en 24–48 h." }
+      ]
+    },
+    "features": {
+      "title": "Funciones clave",
+      "body": "Con Court Clash cada partido cuenta y cada cancha es una arena. Descubre todas las opciones para retar, mejorar y dominar el ranking."
+    },
+    "invite": {
+      "title": "Invita a tus amigos y crea tu crew",
+      "body": "Recluta a tus compañeros, enfréntate a nuevos rivales y subid juntos en el ranking. Cuantos más amigos invites, más fuerte tu comunidad. ¿Quién estará en tu crew?"
+    },
+    "duel": {
+      "title": "Domina cada duelo en la cancha",
+      "subtitle": "Descubre por qué a los jugadores les encanta Court Clash con sus testimonios.",
+      "yohanShort": "App intuitiva, permite retar a otros en un momento",
+      "claraShort": "Una forma genial de mantenerse activa y conocer a otras apasionadas.",
+      "omarShort": "Encontrar rivales para partidos rápidos es muy fácil."
+    },
+    "community": {
+      "title": "Únete a la comunidad Court Clash",
+      "subtitle": "Disfruta de acceso exclusivo."
+    }
+  },
+  "newsletter": {
+    "emailLabel": "Correo electrónico",
+    "emailPlaceholder": "Correo electrónico",
+    "submit": "Unirse a la comunidad",
+    "success": "¡Gracias! Recibirás nuestras novedades pronto.",
+    "error": "Algo ha fallado. Inténtalo de nuevo más tarde."
+  },
+  "footer": {
+    "follow": "Síguenos",
+    "partner": "Ser partner",
+    "copyright": "© Copyright Court Clash – Todos los derechos reservados – 2026",
+    "cookies": "Política de cookies (UE)",
+    "privacy": "Privacidad",
+    "terms": "Términos de uso"
+  },
+  "blogPage": {
+    "title": "Blog",
+    "intro": "Explora nuestro compromiso con el baloncesto urbano. Sumérgete en CourtClash: valores, historia y pasión.",
+    "intro2": "Aquí presentamos artículos con consejos, historias y noticias sobre CourtClash.",
+    "collectionTitle": "Descubre nuestra colección de artículos.",
+    "collectionSubtitle": "Artículos inspiradores sobre baloncesto callejero y nuestra app.",
+    "readArticle": "Leer artículo",
+    "backToBlog": "Volver al blog",
+    "articles": [
+      { "slug": "basketball-urbain", "title": "Baloncesto urbano", "description": "Aprende los fundamentos y la historia del baloncesto callejero." },
+      { "slug": "1-contre-1-nouvelle-reference", "title": "El 1 contra 1, nueva referencia", "description": "Durante mucho tiempo visto como un simple calentamiento entre dos jugadores." },
+      { "slug": "histoires-inspirantes", "title": "Historias inspiradoras", "description": "Relatos motivadores de jugadores apasionados." },
+      { "slug": "actualites-courtclash", "title": "Novedades CourtClash", "description": "Últimas novedades, cambios en la app y socios." }
+    ],
+    "articlesContent": {
+      "1-contre-1-nouvelle-reference": {
+        "body": [
+          "Durante mucho tiempo considerado un simple calentamiento entre dos jugadores antes del entrenamiento, el 1 contra 1 se está imponiendo como la nueva referencia del baloncesto moderno. Una disciplina por derecho propio, más libre, más espectacular, impulsada por una nueva generación de jugadores.",
+          "El retorno a las raíces — En un mundo saturado de tácticas y estadísticas, el 1v1 devuelve el juego a la esencia del baloncesto: un duelo puro entre dos competidores. Sin sistema, sin consignas, solo instinto, mentalidad y talento puro. Cada dribling es una declaración, cada canasta una victoria personal. El 1 contra 1 es el baloncesto al desnudo: auténtico, instintivo y universal.",
+          "Una cultura en auge — En los playgrounds, en los city stadiums o en los polideportivos de barrio, el 1v1 explota. Los jóvenes se desafían por el orgullo local, las cámaras ruedan, los vídeos vuelan en TikTok e Instagram. Este formato rápido, espectacular y filmable encaja perfectamente en la era digital y el contenido corto. El 1v1 es ya el formato del espectáculo y del rendimiento individual.",
+          "Court Clash, el motor del movimiento — En este contexto nació Court Clash, la aplicación que quiere estructurar y amplificar este fenómeno. La idea es simple: permitir a cada jugador encontrar rivales, organizar partidos, registrar sus resultados y seguir su clasificación. En una palabra, dar al 1 contra 1 una verdadera escena competitiva. Gracias a Court Clash, los duelos de calle se convierten en encuentros oficiales, las actuaciones se registran, las rivalidades se construyen. El 1v1 sale de la sombra y entra en una nueva era: la del baloncesto conectado.",
+          "El duelo como escuela mental — Jugar al 1 contra 1 es exponerse. Sin equipo que tape tus errores, sin excusas. Ganas solo, pierdes solo, aprendes solo. Este formato forja el carácter, desarrolla la creatividad y empuja a cada jugador a superar sus límites. Es también una forma de progresar rápido, de ponerse a prueba, de conocerse.",
+          "Hacia un reconocimiento mundial — Con la explosión de los torneos de calle, la mediatización de los duelos y la irrupción de plataformas como Court Clash, el 1 contra 1 se instala poco a poco como un nuevo pilar del baloncesto global. Una disciplina en la encrucijada del deporte, la cultura urbana y lo digital. Un formato que habla a todos: del apasionado del playground al competidor en busca de retos.",
+          "La última palabra — El baloncesto evoluciona, los códigos cambian, y el 1 contra 1 se impone como símbolo de una nueva generación: más libre, más conectada, más audaz. Y en esta revolución, Court Clash se posiciona como el punto de encuentro, la arena moderna donde cada jugador puede por fin demostrar su valor.",
+          "Una canasta, dos jugadores, un solo ganador. Bienvenidos a la era del 1 contra 1."
+        ]
+      },
+      "histoires-inspirantes": {
+        "body": [
+          "Eli, 24 años — El rey del asfalto. En la cancha del square de la Guillotière, en Lyon, el asfalto está agrietado, las líneas apenas visibles. Pero para Eli, 24 años, es un santuario. « Aquí es más que una cancha. Es mi escuela, mi ring, mi escenario. » Cada noche, al anochecer, cuando se encienden las farolas naranjas y las zapatillas chirrían en el pavimento, Eli viene a desafiar a quien se atreva a esperarle.",
+          "Los inicios de un chico del barrio — Eli creció a pocas calles de allí, en un bloque donde el baloncesto era a menudo la única forma de canalizar la energía de los críos. Su padre trabajaba de noche, su madre hacía limpiezas. Él pasaba las tardes en la cancha, con un balón gastado en la mano. « Tenía doce años y me aplastaban los mayores. Perdí cien veces, quizá mil. Pero a base de volver, acabaron respetándome. » Nunca jugó en club: demasiado caro, demasiadas normas, demasiado banquillo. « Siempre preferí la calle. Aquí es puro. Si tienes juego, te lo dicen. Si no, te vas. » Muy pronto Eli se convirtió en « el pequeño del crossover violento ». Los veteranos le llaman Kid Eli. El mote se quedó.",
+          "El 1 contra 1 como identidad — A los 16 años entiende que el 1v1 es más que un formato: es una filosofía. « Eres tú, tu balón y tu cabeza. Si tienes miedo a perder, ya has perdido. » Cada duelo es una batalla — contra un rival, pero sobre todo contra ti mismo. Eli juega todas las noches. A veces bajo la lluvia, a veces solo, a veces lesionado. Su juego se vuelve explosivo, instintivo, casi poético. « El 1 contra 1 es el espejo de la vida. Nadie te cubre. Recibes golpes, caes, pero tienes que levantarte. Siempre. »",
+          "Las redes y la revancha del asfalto — En 2021, durante el confinamiento, Eli se aburre. Torneos cancelados, gimnasios cerrados. Entonces decide grabar sus partidos de calle. Un trípode, un iPhone y un viejo amigo para comentar los duelos. El primer vídeo: 300 visitas. El segundo, 2.000. Luego todo encadena. La gente adora su estilo: crossovers fulminantes, step-backs estilo James Harden, actitud de guerrero tranquilo. Los mensajes llegan: « ¡Ven a desafiarme a Marsella! » « ¡Eres el jefe del asfalto! » Eli se convierte, sin quererlo, en una pequeña celebridad del baloncesto urbano. Pero no pierde la cabeza: « Las visitas están bien. Pero en la cancha no hay likes. Solo el marcador. »",
+          "El descubrimiento de Court Clash — Un día un amigo le habla de una app nueva: Court Clash. « Me dijo: « Es como un ranking de la calle. Juegas, anotas, subes. » La descargué al momento. » Eli descubre que no está solo: jugadores por toda Francia se enfrentan, registran partidos, suben en las clasificaciones. « Lo que me gustó es que hace oficial el 1 contra 1. Juegas en la calle pero tienes un registro real de tu rendimiento. » Muy pronto escala en el ranking regional. Su perfil atrae atención, sus vídeos explotan aún más. Sobre todo recupera la motivación de superarse. « Antes jugaba solo para mí. Ahora juego para representar mi ciudad. »",
+          "Un mental forjado en el asfalto — Eli no ha tenido un camino fácil. Una lesión de rodilla a los 19 le alejó de la cancha más de un año. « No me quedaba nada. Ni juego ni energía. Hasta pensé en dejarlo. » Pero el baloncesto le trajo de vuelta. « Un día pasé por la cancha. Había un crío jugando solo. Cogí el balón, solo para probar. Me sentí revivir. » Desde entonces no ha parado. Cada partido es para él una revancha contra todo lo que pudo haberle derrumbado. « Cuando juego lo olvido todo. Los problemas, las dudas. Soy yo y el sonido del balón. Nada más. »",
+          "De jugador de calle a mentor — Hoy Eli trabaja como educador deportivo en su barrio. Organiza sesiones de iniciación para jóvenes, les enseña las bases del 1 contra 1 y sobre todo la mentalidad. « Quiero que entiendan que el baloncesto no es solo un deporte. Es una forma de construirse. » Usa Court Clash para motivarles, fijarles objetivos, mostrarles sus progresos. « Cuando ven subir su clasificación, les brillan los ojos. Eso es lo que me enorgullece. » Sueña con crear un torneo nacional Court Clash, donde los mejores de los playgrounds defiendan su título, ciudad contra ciudad. « Sería la consagración: la calle recuperando su lugar, con sus reglas, sus héroes y su respeto. »",
+          "Una leyenda local, un símbolo global — Eli no llegó a profesional. No se jacta, pero tampoco lo esconde. Porque encontró otra cosa: un reconocimiento auténtico, el de la gente de la cancha. Cuando cruza la plaza, los niños le llaman « Coach Eli ». Los mayores le chocan la mano. No necesita más. « Quizá no tengo la NBA, pero tengo la calle. Y aquí estoy en casa. » En Court Clash su perfil muestra más de 80 duelos registrados, una racha de 14 victorias seguidas y desafíos de toda Francia. Pero más allá de las cifras, Eli encarna algo esencial: la prueba de que el baloncesto urbano puede ser un camino, una identidad, una historia.",
+          "Eli es ese jugador con el que te cruzas una noche de verano, sin camiseta, mirada concentrada, dispuesto a defender su sitio. El sonido del balón resuena en el asfalto, las risas estallan, el sol cae. Y en ese instante suspendido se entiende por qué el baloncesto de calle no morirá nunca. Porque para algunos es mucho más que un juego: es una forma de existir."
+        ]
+      },
+      "actualites-courtclash": {
+        "body": [
+          "Esta página recoge las últimas novedades de Court Clash: qué cambia en la app, novedades para los jugadores y los partenariados que hacen crecer el universo del 1 contra 1.",
+          "Lo que se ha hecho en la app — Court Clash evoluciona continuamente. Desplegamos con regularidad nuevas canchas validadas por la comunidad, mejoras del ranking y de la interfaz, correcciones y funciones solicitadas por los jugadores. Aquí encontrarás las actualizaciones importantes: nuevas opciones de partido, mejora del seguimiento de resultados, experiencia de usuario y todo lo que hace la app más fluida y útil en la cancha.",
+          "Nuestros socios — Trabajamos con agentes del baloncesto urbano, estructuras deportivas y eventos para desarrollar la escena del 1 contra 1. Torneos, operaciones especiales, apoyo a iniciativas locales: esta sección te mantiene al día de los partenariados que refuerzan la comunidad Court Clash y ofrecen más oportunidades de jugar y medirse.",
+          "Sigue conectado en nuestras redes y en esta página para no perderte las próximas novedades, actualizaciones y anuncios de socios. El baloncesto de calle merece una app a su imagen: sencilla, directa y siempre al día."
+        ]
+      }
+    }
+  },
+  "player": {
+    "notFound": "Jugador no encontrado",
+    "invalidLink": "Este enlace no es válido.",
+    "defaultName": "Jugador Court Clash",
+    "scanned": "Has escaneado el código QR de",
+    "openApp": "Para jugar contra este jugador, abre la app Court Clash",
+    "openAppButton": "Abrir la app",
+    "noApp": "¿No tienes la app?",
+    "googlePlayAlt": "Google Play",
+    "appStoreAlt": "App Store",
+    "ranking": "Clasificación",
+    "totalMatches": "Partidos jugados",
+    "winRate": "Victorias",
+    "streak": "Racha",
+    "opponents": "Rivales",
+    "lastMatch": "Último partido",
+    "basketsScored": "Canastas anotadas",
+    "basketsReceived": "Canastas recibidas"
+  }
+}

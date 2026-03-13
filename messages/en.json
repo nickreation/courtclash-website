@@ -1,0 +1,288 @@
+{
+  "metadata": {
+    "title": "Court Clash – 1v1 Basketball App",
+    "description": "The app that turns every basketball court into a 1v1 competition arena. Scan your opponent's QR code, issue the challenge, record your scores.",
+    "ogDescription": "Scan your opponent's QR code, issue the challenge and climb the rankings."
+  },
+  "nav": {
+    "features": "Features",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "socialLabel": "Social networks",
+    "googlePlay": "Get it on Google Play",
+    "appStore": "Download on the App Store",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "title1": "The BASKETBALL",
+    "title2": "1v1 app",
+    "intro": "Welcome to Court Clash, the app that turns every basketball court into a 1v1 competition arena.",
+    "cta": "Forget long match setups: scan your opponent's QR code right on the court, issue the challenge and record your scores in real time.",
+    "imageAlt": "Basketball game action"
+  },
+  "sections": {
+    "appAvailable": "The app is available",
+    "videoGameplay": "See the game",
+    "videoDrone": "Drone view of the court",
+    "king": {
+      "title": "Become the king of 1v1",
+      "body": "Stack wins on your favourite playground and assert your dominance. The more you win, the longer your reign. Can you keep your crown against challengers?",
+      "imageAlt": "Outdoor basketball game"
+    },
+    "testimonials": {
+      "title": "Testimonials",
+      "yohan": "Intuitive app, it lets you challenge other players in no time, wherever I am",
+      "clara": "A great way to stay active and meet other basketball enthusiasts.",
+      "omar": "Finding opponents or friends for quick games is super easy with this app."
+    },
+    "ranking": {
+      "title": "Climb the rankings",
+      "body": "Track your rise in real time and compete with the best. Every win brings you closer to the top, every game is a chance to move up. Ready to dominate the leaderboard?"
+    },
+    "blog": { "title": "Blog", "seeFull": "View blog" },
+    "faq": { "title": "FAQ", "seeFull": "See full FAQ" },
+    "termsPage": {
+      "title": "Terms of Use",
+      "backToHome": "Back to home",
+      "intro": "Welcome to our website. By accessing this site, you accept these terms of use. Please read them carefully before continuing.",
+      "closing": "By continuing to use our site, you accept these terms in full. Thank you for your trust and your visit.",
+      "sections": [
+        { "title": "Acceptance of terms", "body": "By using this site, you acknowledge that you have read these terms of use and agree to comply with them. If you do not accept these terms, please do not use our site." },
+        { "title": "Use of the site", "body": "The content of this site is provided for informational purposes only. You agree to use this site in accordance with applicable laws and regulations. Any fraudulent, abusive or illegal use is strictly prohibited." },
+        { "title": "Intellectual property", "body": "All content on this site, including but not limited to texts, images, logos, videos and graphics, is protected by copyright and other intellectual property rights. Any unauthorised reproduction, modification, distribution or use is strictly prohibited." },
+        { "title": "Liability", "body": "We strive to provide accurate and up-to-date information, but we cannot guarantee the accuracy or completeness of the information on this site. We disclaim any liability for errors, omissions or results obtained from the use of this information." },
+        { "title": "External links", "body": "Our site may contain links to third-party sites. We are not responsible for the content of these sites, their practices or their availability. Access to these sites is at your own risk." },
+        { "title": "Changes to terms", "body": "We reserve the right to modify these terms of use at any time. Changes will take effect upon publication on this page. We encourage you to check this page regularly for updates." },
+        { "title": "Contact", "body": "For any questions regarding these terms of use, you can contact us via the information available on our contact page." }
+      ]
+    },
+    "privacyPage": {
+      "title": "Privacy policy",
+      "backToHome": "Back to home",
+      "intro": "This privacy policy applies to the Court Clash mobile application and our website. It explains what personal data we collect, how we use it and what your rights are under the GDPR.",
+      "closing": "We may update this policy to reflect changes in our services or legal obligations. We encourage you to review it regularly. For any questions, you can contact us at contact@courtclash.app.",
+      "sections": [
+        {
+          "title": "1. Introduction",
+          "body": "This privacy policy aims to inform you in a clear and transparent way about how Court Clash collects and processes your personal data when you use the Service (the Court Clash mobile app and related services)."
+        },
+        {
+          "title": "2. Definitions",
+          "body": "“Service” refers to the Court Clash mobile application and related features (account creation, court search, match organisation, notifications and so on). “Personal data” means any information relating to an identified or identifiable natural person, such as an email address, device identifier or location data."
+        },
+        {
+          "title": "3. General principles",
+          "body": "We process your data in compliance with the General Data Protection Regulation (GDPR) and applicable data protection laws. Processing is based on defined legal grounds, pursues explicit purposes, is limited to what is necessary, follows appropriate retention periods and is protected by suitable security measures."
+        },
+        {
+          "title": "4. Data collected and how we collect it",
+          "body": "We collect data you provide directly when creating and managing your account: email address, name, date of birth, country, city, as well as your preferences (for example, location if you enable it to find courts nearby). We also automatically collect certain technical data necessary for the proper functioning and security of the Service (device identifiers, technical logs, operating system) and a notification identifier (Expo Push Token) so we can send push notifications."
+        },
+        {
+          "title": "5. Purposes of processing",
+          "body": "We use your data to: create and manage your user account, provide the Service’s features (court search, match organisation and tracking, ranking management), send you notifications about your matches, account or progress, improve the Service through internal analysis, secure our infrastructure and prevent fraud, and respond to your support requests."
+        },
+        {
+          "title": "6. Legal bases",
+          "body": "Depending on the situation, the processing of your data is based on: performance of a contract (acceptance of the Terms of Use to use the Service), your consent (for example for location or certain notifications), compliance with legal obligations, or our legitimate interests (securing the Service, preventing abuse, improving features). Where processing is based on your consent, you can withdraw it at any time in your device or app settings."
+        },
+        {
+          "title": "7. Recipients and data sharing",
+          "body": "Your data is accessible to authorised members of the Court Clash team, within the scope of their duties. We also use technical providers for hosting (for example Supabase) and for sending push notifications (Expo). These providers act on instructions from Court Clash and may not use your data for any other purpose than providing the Service. No data is sold to third parties. Where data is transferred outside the European Union, we implement appropriate safeguards (including the European Commission’s standard contractual clauses)."
+        },
+        {
+          "title": "8. Data retention",
+          "body": "We keep your data for as long as you actively use the Service. In case of prolonged inactivity, your data may be archived for up to three years before being deleted or anonymised, unless a longer retention period is required by law. Notification identifiers (push tokens) are deleted as soon as you withdraw your consent to notifications or delete your account."
+        },
+        {
+          "title": "9. Your rights",
+          "body": "Under applicable law, you have the right to access, rectify, delete and restrict your data, the right to object to processing, the right to data portability and the right not to be subject to a decision based solely on automated processing. You can exercise these rights by contacting us at contact@courtclash.app. We will respond within one month, subject to proof of identity."
+        },
+        {
+          "title": "10. Account deletion and revoking permissions",
+          "body": "You can delete your account at any time from the app settings or by contacting us. You can also disable the collection of certain data, such as location or push notifications, directly in your device or app settings. Deleting your account leads to the deletion or anonymisation of your data, except where we must retain certain data for legal or evidential reasons."
+        },
+        {
+          "title": "11. Children’s privacy",
+          "body": "The Service is not intended for individuals under 15 years of age. We do not knowingly collect personal data from minors who do not meet this age requirement. If we learn that an account has been created in violation of this rule, we will take appropriate steps to delete the related data."
+        },
+        {
+          "title": "12. Security",
+          "body": "We implement appropriate technical and organisational security measures to protect your data against loss, misuse, unauthorised access, disclosure or alteration. Communication with our servers is protected by encrypted protocols (HTTPS/TLS), and access to data is limited to people who need it for their duties."
+        },
+        {
+          "title": "13. Changes to this privacy policy",
+          "body": "We may modify this privacy policy to reflect changes in the Service, legal or regulatory requirements or our internal practices. The date of the latest update is indicated at the bottom of the version published on our website. We encourage you to consult this page regularly."
+        }
+      ]
+    },
+    "cookiesPage": {
+      "title": "Cookie policy (EU)",
+      "backToHome": "Back to home",
+      "intro": "This cookie policy was last updated on 25 February 2025 and applies to citizens and legal permanent residents of the European Economic Area and Switzerland. Our website https://www.courtclash.app uses cookies and related technologies (for simplicity, all of these are referred to as \"cookies\"). Cookies are also placed by third parties we have engaged. Below we inform you about the use of cookies on our website.",
+      "closing": "This cookie policy was synchronised with cookiedatabase.org on 25/02/2025.",
+      "sections": [
+        { "title": "What are cookies?", "body": "A cookie is a small simple file sent with the pages of this website and stored by your browser on your computer or other device. The information stored in it may be returned to our servers or to the servers of the relevant third parties on a subsequent visit." },
+        { "title": "What are scripts?", "body": "A script is a piece of code used to make our website work properly and interactively. This code is executed on our server or on your device." },
+        { "title": "What is an invisible tag?", "body": "An invisible tag (or web beacon) is a small piece of text or image invisible on a website, used to track traffic on a website. To do this, various data about you is stored using invisible tags." },
+        { "title": "Technical or functional cookies", "body": "Some cookies ensure that certain parts of the website work properly and that your preferences are remembered. By placing functional cookies, we make it easier for you to visit our website. You do not need to enter the same information repeatedly when visiting our website. We may place these cookies without your consent." },
+        { "title": "Marketing/tracking cookies", "body": "Marketing/tracking cookies are cookies or any other form of local storage used to create user profiles to display advertising or to track the user on this website or across several websites for similar marketing purposes." },
+        { "title": "Social networks", "body": "On our website we have included content from Instagram, Facebook and TikTok to promote pages or share them on these social networks. This content is embedded using code from these platforms and places cookies. This content may store and process certain information for personalised advertising. Please read these platforms' privacy statements to see how they use your data. Data collected is anonymised as far as possible. Instagram, Facebook and TikTok are located in the United States." },
+        { "title": "Cookies placed", "body": "We use consent-related cookies (cmplz_functional, cmplz_preferences, cmplz_marketing, cmplz_consented_services, cmplz_banner-status, cmplz_policy_id, cmplz_statistics) with a 365-day duration, as well as technical platform cookies (user preferences, settings, cache, session). For details on each cookie, you can check your browser settings or contact us." },
+        { "title": "Consent", "body": "When you first visit our website, we show you a pop-up with an explanation about cookies. When you click \"Save preferences\" you consent to us using the categories of cookies and plugins you selected, as described in this cookie policy. You can disable cookies in your browser, but please note that our website may no longer work properly." },
+        { "title": "Enabling, disabling and deleting cookies", "body": "You can use your internet browser to automatically or manually delete cookies. You can also specify that certain cookies cannot be placed. Another option is to change your browser settings so that you receive a message each time a cookie is placed. For more information, see your browser's Help section. Please note that our website may not work properly if all cookies are disabled. If you delete cookies in your browser, they will be placed again after your consent when you revisit our website." },
+        { "title": "Your rights regarding personal data", "body": "You have the right to know why your personal data is needed, what will happen to it and how long it will be retained. Right of access: you have the right to access the personal data we hold about you. Right to rectification: you have the right to supplement, correct, have deleted or blocked your personal data at any time. If you have given us your consent to process your data, you have the right to revoke that consent and to have your personal data deleted. Right to data portability: you have the right to request all your personal data from the controller and to transfer it in full to another controller. Right to object: you may object to the processing of your data. We will comply unless there are justified grounds for processing. To exercise these rights, please contact us. If you have a complaint about how we process your data, you also have the right to lodge a complaint with the supervisory authority (the data protection authority)." },
+        { "title": "Contact details", "body": "For questions and/or comments about our cookie policy and this statement, please contact us: CourtClash, 2 Rue Saint Gilles, 22000 Saint Brieuc – France. Website: https://www.courtclash.app. Email: contact@courtclash.app" }
+      ]
+    },
+    "faqPage": {
+      "title": "FAQ",
+      "backToHome": "Back to home",
+      "intro": "Find out how to start matches, track your scores in real time and climb the rankings with our intuitive platform.",
+      "howItWorksTitle": "How does CourtClash work?",
+      "howItWorksSubtitle": "Find out how to take on challenges, track your scores and climb the rankings step by step.",
+      "steps": [
+        { "number": "1", "title": "Create your profile", "body": "Sign up and personalise your profile to start challenging other street basketball enthusiasts." },
+        { "number": "2", "title": "Start a match", "body": "Challenge an opponent, follow the match rules, play and add your score for good." },
+        { "number": "3", "title": "Track your performance", "body": "View results in real time and improve your ranking with the dashboard." }
+      ],
+      "learnMore": "Learn more",
+      "testimonialQuote": "CourtClash motivated me to play more games against players I didn't know. Having every score recorded makes each game more intense and exciting.",
+      "testimonialAuthor": "Bobballmurda",
+      "testimonialRole": "Ball player in Paris",
+      "ctaTitle": "Take on the CourtClash challenge today.",
+      "ctaSubtitle": "Discover how CourtClash.app turns your streetball games into exciting, dynamic competitions.",
+      "ctaBullets": ["Real-time challenges", "Instant score tracking", "Global rankings", "Engaged community"],
+      "ctaButton": "Dive into the experience",
+      "items": [
+        { "question": "What is Court Clash?", "answer": "Court Clash is a mobile app that lets you create and play 1v1 basketball games near you." },
+        { "question": "Is Court Clash free?", "answer": "Yes! The app is completely free. You can sign up, play and track your ranking at no cost." },
+        { "question": "On which devices is the app available?", "answer": "Court Clash is available on iOS and Android. In France, Luxembourg and Belgium." },
+        { "question": "How do I create an account?", "answer": "Download the app, then choose \"Create an account\". You can sign up with your email address." },
+        { "question": "How do I edit my profile?", "answer": "Go to Profile → Edit to update your photo and username." },
+        { "question": "I forgot my password, what do I do?", "answer": "No worries! Click \"Forgot password\" on the login screen and follow the link sent to your email to reset it." },
+        { "question": "How do I create a match?", "answer": "From the home screen, tap \"Play\", then scan your opponent's QR code and tap \"create match\"." },
+        { "question": "How does the ranking work?", "answer": "Every win earns you points. The more you play, the higher you climb. The system also takes your opponent's level into account to balance progression." },
+        { "question": "How do I see courts near me?", "answer": "Enable location on your phone and the app will show you nearby courts." },
+        { "question": "Can I suggest a new court?", "answer": "Yes! If you know a court that's not listed, go to Court → Add a court and fill in the details." },
+        { "question": "How do I contact the Court Clash team?", "answer": "You can reach us from the app (Profile → Support) or by email at support@courtclash.app. We reply within 24 to 48 hours." }
+      ]
+    },
+    "features": {
+      "title": "Key features",
+      "body": "With Court Clash, every game counts and every court becomes an arena. Discover all the options to challenge, improve and dominate the rankings!"
+    },
+    "invite": {
+      "title": "Invite your friends and build your crew!",
+      "body": "Recruit your teammates, face new opponents and climb the rankings together. The more friends you invite, the stronger your community and your legacy on the court. Who will be in your crew?"
+    },
+    "duel": {
+      "title": "Dominate every duel on the court",
+      "subtitle": "Find out why players love Court Clash through their inspiring testimonials.",
+      "yohanShort": "Intuitive app, it lets you challenge other players in no time",
+      "claraShort": "A great way to stay active and meet other enthusiasts.",
+      "omarShort": "Finding opponents for quick games is super easy."
+    },
+    "community": {
+      "title": "Join the Court Clash community",
+      "subtitle": "Get exclusive access!"
+    }
+  },
+  "newsletter": {
+    "emailLabel": "Email",
+    "emailPlaceholder": "Email",
+    "submit": "Join the community",
+    "success": "Thanks! You'll receive our updates soon.",
+    "error": "Something went wrong. Please try again later."
+  },
+  "footer": {
+    "follow": "Follow us",
+    "partner": "Become a Partner",
+    "copyright": "© Copyright Court Clash – All rights reserved – 2026",
+    "cookies": "Cookie policy (EU)",
+    "privacy": "Privacy policy",
+    "terms": "Terms of use"
+  },
+  "blogPage": {
+    "title": "Blog",
+    "intro": "Explore our passionate commitment to revolutionising urban basketball. Dive into the CourtClash universe, discover our values, our story and our passion for inspiring and supporting every streetball player.",
+    "intro2": "Here we present our varied articles, offering advice, motivating stories and exclusive news around CourtClash.",
+    "collectionTitle": "Discover our collection of exciting articles.",
+    "collectionSubtitle": "Dive into inspiring articles about street basketball and our innovative app.",
+    "readArticle": "Read article",
+    "backToBlog": "Back to blog",
+    "articles": [
+      { "slug": "basketball-urbain", "title": "Urban basketball", "description": "Learn the basics and history of street basketball." },
+      { "slug": "1-contre-1-nouvelle-reference", "title": "1v1, the new reference", "description": "Long considered a simple warm-up between two players." },
+      { "slug": "histoires-inspirantes", "title": "Inspiring stories", "description": "Read motivating stories from passionate players and their journeys." },
+      { "slug": "actualites-courtclash", "title": "CourtClash news", "description": "Latest news, app updates and partners." }
+    ],
+    "articlesContent": {
+      "basketball-urbain": {
+        "body": [
+          "From the playground to a global cultural phenomenon.",
+          "The origins: street basketball first — Basketball was born in 1891 in a gym in Springfield, Massachusetts, invented by James Naismith. But it quickly escaped the school walls to find a new playing field: the streets. In the 1940s and 1950s, in New York, Chicago or Philadelphia, children in working-class neighbourhoods put up hoops on walls, cobbled together courts, and gave the game another dimension: freer, more physical, more creative. The playground became a social, cultural and identity space. You didn't just play to win: you played to show your style, make your name and earn the respect of the neighbourhood.",
+          "Legendary playgrounds: cradles of the myth — Harlem, Rucker Park, The Cage, Dyckman Park… These names echo like legends. These courts became real arenas of urban basketball, where the best faced off in front of hundreds of spectators packed around the asphalt. Players like Julius Erving (Dr. J), Kareem Abdul-Jabbar, or later Kevin Durant, all walked these courts before shining in the NBA. At Rucker, you came as much to play as to show your personality, with flamboyant style, spectacular moves and nicknames that became legendary: Skip to My Lou, Half Man Half Amazing, The Professor… Streetball became living entertainment, a mix of sport, music and hip-hop culture.",
+          "The 90s: streetball enters pop culture — In the 1990s, urban basketball exploded with the rise of hip-hop culture. Baggy clothes, mixtapes, slang, everything influenced everything else. Playgrounds became performance stages: every dribble told a story, every move became a signature. The arrival of the famous AND1 Mixtape Tours was a turning point. These streetball tours criss-crossed the United States, then the world, stringing together crazy moves, humiliating crossovers and spectacular dunks. For the first time, streetball became a globally broadcast show, inspiring an entire generation.",
+          "The international rise of street basketball — In the early 2000s, urban basketball culture spread to Europe, Africa and Asia. Tournaments like Quai 54 in Paris became must-see events, blending music, sport and style. Brands took notice, the media followed, and the street became a lab for basketball innovation. New rules and formats were tested — including 1v1 and 3×3, which would eventually be officially recognised by FIBA. Urban basketball stopped being a subculture: it became a full pillar of world basketball.",
+          "1v1: the duel in its purest form — At the heart of urban basketball there has always been the duel. 1v1 is the DNA of the game: no coach, no teammates, no excuses. That's where you see a player's truth — their mentality, technique and creativity. On the playgrounds, 1v1 has always been a rite of passage: win your duel and you stay on the court; lose and you're out. Today, the format is enjoying a spectacular comeback, driven by social media, independent tournaments and new digital platforms.",
+          "CourtClash: when the street meets digital — It's in this context that CourtClash emerged, a French app that aims to connect the new generation of 1v1 players. The idea: let everyone find an opponent, set up a game, record the score and track their ranking. CourtClash doesn't just digitise the game — it gives it back a community and competitive dimension true to the spirit of the playgrounds. It's where asphalt culture meets mobile tech. Where the old school made Rucker Park shake, the new generation is writing its legend… on CourtClash.",
+          "A culture that never dies — Urban basketball isn't just a style of play, it's a mindset: freedom, creativity, confrontation. It has given birth to legends, cultural movements and sporting innovations that have transformed world basketball. Today it still inspires young players across the globe, from the Bronx to Marseille, Paris to Tokyo. The asphalt stays sacred. And as long as there's a hoop, a ball and two players ready to battle, the spirit of streetball will live on."
+        ]
+      },
+      "1-contre-1-nouvelle-reference": {
+        "body": [
+          "Long considered a simple warm-up between two players before training, 1v1 is establishing itself as the new reference for modern basketball. A discipline in its own right, freer, more spectacular, and driven by a new generation of players.",
+          "Back to the roots — In a world saturated with tactics and statistics, 1v1 brings the game back to the essence of basketball: a raw duel between two competitors. No system, no instructions, just instinct, mentality and pure talent. Every dribble becomes a statement, every basket a personal victory. 1v1 is basketball stripped bare: authentic, instinctive and universal.",
+          "A culture on the rise — On playgrounds, in city courts or local gyms, 1v1 is booming. Young players battle for local pride, cameras roll, videos spread on TikTok and Instagram. This fast, spectacular, filmable format fits perfectly with the digital age and short-form content. 1v1 is now the format of show and individual performance.",
+          "Court Clash, the engine of the movement — It's in this context that Court Clash was born, the app that aims to structure and amplify this phenomenon. The idea is simple: let every player find opponents, organise games, record their scores and track their ranking. In short, give 1v1 a real competitive stage. Thanks to Court Clash, street duels become official matchups, performances are recorded, rivalries are built. 1v1 steps out of the shadows and into a new era: that of connected basketball.",
+          "The duel as a school of mentality — Playing 1v1 is putting yourself on the line. No team to cover your mistakes, no excuses. You win alone, you lose alone, you learn alone. This format builds mentality, develops creativity and pushes every player to push their limits. It's also a way to improve quickly, to test yourself, to know yourself.",
+          "Towards global recognition — With the explosion of street tournaments, the media coverage of duels and the rise of platforms like Court Clash, 1v1 is gradually establishing itself as a new pillar of global basketball. A discipline at the crossroads of sport, urban culture and digital. A format that speaks to everyone: from the playground enthusiast to the competitor seeking challenges.",
+          "The final word — Basketball is evolving, the codes are changing, and 1v1 is emerging as the symbol of a new generation: freer, more connected, bolder. And in this revolution, Court Clash is positioning itself as the rallying point, the modern arena where every player can finally prove their worth.",
+          "One hoop, two players, one winner. Welcome to the era of 1v1."
+        ]
+      },
+      "histoires-inspirantes": {
+        "body": [
+          "Eli, 24 — King of the asphalt. On the court at square de la Guillotière in Lyon, the asphalt is cracked, the lines barely visible. But for Eli, 24, it's a sanctuary. \"Here, it's more than a court. It's my school, my ring, my stage.\" Every evening at dusk, when the orange streetlights come on and sneakers squeak on the pavement, Eli comes to take on anyone who dares wait for him.",
+          "A kid from the neighbourhood — Eli grew up a few streets away, in a tower block where basketball was often the only way to channel the kids' energy. His father worked nights, his mother did cleaning. He spent his afternoons on the court, a worn ball in his hand. \"I was twelve and I got crushed by the older guys. I lost a hundred times, maybe a thousand. But by keeping coming back, they ended up respecting me.\" He never played for a club — too expensive, too many rules, too much bench. \"I always preferred the street. Here it's pure. If you've got game, they tell you. If you don't, you're out.\" Soon Eli became \"the kid with the killer crossover\". The old heads call him Kid Eli. The nickname stuck.",
+          "1v1 as identity — At 16 he realises that 1v1 is more than a format: it's a philosophy. \"It's you, your ball and your mind. If you're afraid to lose, you've already lost.\" Every duel is a fight — against an opponent, but above all against yourself. Eli plays every night. Sometimes in the rain, sometimes alone, sometimes injured. His game becomes explosive, instinctive, almost poetic. \"1v1 is the mirror of life. No one's got your back. You take hits, you fall, but you have to get up. Always.\"",
+          "Social media and the asphalt's revenge — In 2021, during lockdown, Eli is bored. Tournaments are cancelled, gyms closed. So he decides to film his street games. A tripod, an iPhone and an old friend to commentate the duels. The first video gets 300 views. The second, 2,000. Then it takes off. People love his style: lightning crossovers, James Harden step-backs, and a quiet warrior attitude. Messages pour in: \"Come challenge me in Marseille!\" \"You're the real boss of the asphalt!\" Eli becomes, without meaning to, a small celebrity of urban basketball. But he keeps a cool head: \"Views are fine. But on the court there are no likes. Just the score.\"",
+          "Discovering Court Clash — One day a friend tells him about a brand-new app: Court Clash. \"He said: 'It's like a street ranking. You play, you score, you climb.' I downloaded it straight away.\" Eli discovers he's not alone: players all over France are going head-to-head, recording games, climbing the rankings. \"What I liked was that it makes 1v1 official. You play on the street but you have a real record of your performance.\" He quickly climbs the regional rankings. His profile gets attention, his videos blow up even more. But above all he finds the motivation to push himself. \"Before I only played for myself. Now I play to represent my city.\"",
+          "A mentality forged on the asphalt — Eli hasn't had an easy path. A knee injury at 19 kept him off the court for over a year. \"I had nothing left. No game, no energy. I even thought about quitting.\" But basketball brought him back. \"One day I walked past the court. There was a kid playing alone. I picked up the ball, just to try. I felt alive again.\" He hasn't stopped since. Every game is for him a revenge on everything that could have broken him. \"When I play I forget everything. The struggles, the doubts. It's me and the sound of the ball. Nothing else.\"",
+          "From street player to mentor — Today Eli works as a sports educator in his neighbourhood. He runs initiation sessions for young players, teaches them the basics of 1v1 and above all the mindset. \"I want them to understand that basketball isn't just a sport. It's a way to build yourself.\" He uses Court Clash to motivate them, set goals, show their progress. \"When they see their ranking go up, their eyes light up. That's what makes me proud.\" He dreams of creating a national Court Clash tournament where the best from the playgrounds would defend their title, city against city. \"That would be the ultimate: the street reclaiming its place, with its rules, its heroes and its respect.\"",
+          "A local legend, a global symbol — Eli didn't make it as a pro. He doesn't boast about it, but he doesn't hide it either. Because he found something else: genuine recognition from the people on the court. When he walks through the square, kids call him \"Coach Eli\". The older ones give him dap. He doesn't need more. \"I may not have the NBA, but I have the street. And here, I'm home.\" On Court Clash his profile shows over 80 recorded duels, a streak of 14 consecutive wins and challenges from all over France. But beyond the numbers, Eli embodies something essential: proof that urban basketball can be a path, an identity, a story.",
+          "Eli is that player you run into on a summer evening, shirtless, focused, ready to defend his spot. The sound of the ball echoes on the asphalt, laughter rings out, the sun goes down. And in that suspended moment you understand why street basketball will never die. Because for some, it's much more than a game — it's a way of existing."
+        ]
+      },
+      "actualites-courtclash": {
+        "body": [
+          "This page covers the latest Court Clash news: what's changing in the app, new features for players, and the partnerships that are growing the 1v1 universe.",
+          "What's been done on the app — Court Clash is constantly evolving. We regularly roll out new community-validated courts, ranking and interface improvements, bug fixes and features requested by players. Find here the major updates: new match options, better score tracking, user experience improvements and everything that makes the app smoother and more useful on the court.",
+          "Our partners — We work with urban basketball stakeholders, sports organisations and events to grow the 1v1 scene. Tournaments, special campaigns and support for local initiatives: this section keeps you informed about partnerships that strengthen the Court Clash community and create more opportunities to play and compete.",
+          "Stay connected on our socials and this page so you don't miss the next news, release notes and partner announcements. Street basketball deserves an app that matches it: simple, direct and always up to date."
+        ]
+      }
+    }
+  },
+  "player": {
+    "notFound": "Player not found",
+    "invalidLink": "This link is not valid.",
+    "defaultName": "Court Clash Player",
+    "scanned": "You scanned the QR code of",
+    "openApp": "To play against this player, open the Court Clash app",
+    "openAppButton": "Open the app",
+    "noApp": "Don't have the app?",
+    "googlePlayAlt": "Google Play",
+    "appStoreAlt": "App Store",
+    "ranking": "Ranking",
+    "totalMatches": "Matches played",
+    "winRate": "Win rate",
+    "streak": "Current streak",
+    "opponents": "Opponents",
+    "lastMatch": "Last match",
+    "basketsScored": "Baskets scored",
+    "basketsReceived": "Baskets received"
+  }
+}

@@ -65,4 +65,11 @@ Tester la page joueur : [http://localhost:3000/player/UUID_D_UN_JOUEUR](http://l
 
 ## RLS Supabase
 
-La page `/player/[id]` lit la vue **user_stats_view**. Il faut une politique RLS qui autorise la lecture (anon) pour les champs utilisés : `id`, `username`, `full_name`, `points`, `wins`, `losses`, `level`, `avatar_url`. Sinon la page renverra « Joueur introuvable » pour les visiteurs non connectés.
+La page `/player/[id]` lit la vue **user_stats_view** avec la clé **anon**. La vue utilise `security_invoker`, donc les politiques RLS des tables **users** et **player_stats** s’appliquent.
+
+- **Sans politique pour anon** : la page affiche « Joueur introuvable ».
+- Une migration dans **court-clash-v2** autorise la lecture publique :
+  - `supabase/migrations/20250313120000_allow_anon_read_user_stats_for_public_player_page.sql`
+- Appliquer les migrations Supabase (ou exécuter ce fichier sur ton projet) pour que la page joueur fonctionne.
+
+En dev, si Supabase n’est pas configuré (`.env.local` manquant ou invalide), un avertissement s’affiche dans la console du serveur, et les erreurs Supabase sont loguées au format `[getPublicPlayerById] Supabase error: ...`.

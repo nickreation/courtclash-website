@@ -1,15 +1,12 @@
-import type { Metadata } from 'next';
 import './globals.css';
+import { LocaleLangScript } from './LocaleLangScript';
 
-export const metadata: Metadata = {
-  title: 'Court Clash – Application basketball 1 contre 1',
-  description:
-    "L'application qui transforme chaque terrain de basketball en arène de compétition 1 contre 1. Scannez le QR code de votre adversaire, lancez le défi, enregistrez vos scores.",
-  openGraph: {
-    title: 'Court Clash – Application basketball 1 contre 1',
-    description:
-      "Scannez le QR code de votre adversaire, lancez le défi et grimpez le classement.",
-    url: 'https://courtclash.app',
+export const metadata = {
+  title: "Court Clash : L'application BASKET du 1 contre 1",
+  description: 'L\'app du 1 contre 1. Défie, progresse, domine.',
+  icons: {
+    icon: '/images/favicon.png',
+    apple: '/images/favicon.png',
   },
 };
 
@@ -19,8 +16,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="fr">
-      <body className="antialiased min-h-screen">{children}</body>
+    <html lang="fr" suppressHydrationWarning>
+      <head>
+        <LocaleLangScript />
+        <link rel="icon" href="/images/favicon.png" type="image/png" sizes="any" />
+      </head>
+      <body className="antialiased min-h-screen font-montserrat">{children}</body>
     </html>
   );
 }

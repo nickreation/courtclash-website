@@ -2,12 +2,101 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Même couleur que le titre hero "L'application BASKET" (dégradé primary → accent) */
+@layer components {
+  .text-hero-gradient {
+    @apply bg-gradient-to-r from-primary via-primary to-accent bg-clip-text text-transparent;
+  }
+}
+
+/* Polices locales (public/fonts/) */
+@font-face {
+  font-family: 'Ethnocen';
+  src: url('/fonts/ethnocen.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/fonts/Montserrat-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/fonts/Montserrat-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Space Mono';
+  src: url('/fonts/SpaceMono-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Mode sombre (défaut) – couleurs app Court Clash dark theme */
 :root {
-  --background: #0f0f12;
+  --background: #000000;
+  --surface: #1C1C1E;
+  --surface-elevated: #2C2C2E;
+  --muted: #2C2C2E;
+  --primary: #37E6A4;
+  --primary-glow: rgba(55, 230, 164, 0.4);
+  --secondary: #5014A0;
+  --accent: #BF38E5;
   --foreground: #ffffff;
+  --text-secondary: #8E8E93;
+  --text-tertiary: #636366;
+  --border: #38383A;
+  --font-ethnocen: 'Ethnocen', sans-serif;
+  --font-montserrat: 'Montserrat', sans-serif;
+  --font-space-mono: 'Space Mono', monospace;
+}
+
+/* Mode clair – couleurs app Court Clash light theme */
+@media (prefers-color-scheme: light) {
+  :root {
+    --background: #FAFAFA;
+    --surface: #F5F5F5;
+    --surface-elevated: #FAFAFA;
+    --muted: #E5E5E5;
+    --primary: #5014A0;
+    --primary-glow: rgba(80, 20, 160, 0.25);
+    --secondary: #37E6A4;
+    --accent: #5014A0;
+    --foreground: #1A1A1A;
+    --text-secondary: #6B6B6B;
+    --text-tertiary: #999999;
+    --border: #E5E5E5;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
   color: var(--foreground);
   background: var(--background);
+  font-family: var(--font-montserrat);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Réduire les animations si l'utilisateur le préfère (accessibilité) */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
 }

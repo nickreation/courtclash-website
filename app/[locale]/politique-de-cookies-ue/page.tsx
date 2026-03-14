@@ -93,7 +93,7 @@ export default async function PolitiqueCookiesPage({ params }: PageProps) {
                     Instagram
                   </a>
                   <a
-                    href="https://www.tiktok.com/@courtclash"
+                    href="https://www.tiktok.com/@courtclash.app"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:opacity-90"

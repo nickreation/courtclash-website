@@ -45,16 +45,17 @@
     "termsPage": {
       "title": "Termos de uso",
       "backToHome": "Voltar ao início",
-      "intro": "Bem-vindo ao nosso site. Ao acessar este site, você aceita estes termos de uso. Leia-os com atenção antes de continuar.",
-      "closing": "Ao continuar a usar nosso site, você aceita estes termos na íntegra. Obrigado pela sua confiança e pela sua visita.",
+      "intro": "Bem-vindo ao Court Clash. Os presentes termos de uso (TdU) aplicam-se ao Serviço, ou seja, à aplicação móvel Court Clash e ao site courtclash.app. Ao utilizar a aplicação ou o site, aceita estes TdU. Leia-os com atenção.",
+      "closing": "Ao continuar a utilizar o Serviço (aplicação ou site), aceita estes termos na íntegra. Obrigado pela sua confiança.",
       "sections": [
-        { "title": "Aceitação dos termos", "body": "Ao usar este site, você reconhece ter lido estes termos de uso e se compromete a cumpri-los. Se não os aceitar, não utilize nosso site." },
-        { "title": "Uso do site", "body": "O conteúdo deste site é fornecido apenas para fins informativos. Você se compromete a usar este site em conformidade com as leis e regulamentos em vigor. Qualquer uso fraudulento, abusivo ou ilegal é estritamente proibido." },
-        { "title": "Propriedade intelectual", "body": "Todo o conteúdo deste site, incluindo textos, imagens, logotipos, vídeos e gráficos, é protegido por direitos autorais e outros direitos de propriedade intelectual. Qualquer reprodução, modificação, distribuição ou uso não autorizado é estritamente proibido." },
-        { "title": "Responsabilidade", "body": "Esforçamo-nos por fornecer informações precisas e atualizadas, mas não podemos garantir a exatidão ou a integridade das informações neste site. Declinamos qualquer responsabilidade por erros, omissões ou resultados obtidos a partir do uso dessas informações." },
-        { "title": "Links externos", "body": "Nosso site pode conter links para sites de terceiros. Não somos responsáveis pelo conteúdo desses sites, suas práticas ou sua disponibilidade. O acesso a esses sites é por sua conta e risco." },
-        { "title": "Alterações dos termos", "body": "Reservamo-nos o direito de modificar estes termos de uso a qualquer momento. As alterações entrarão em vigor após a publicação nesta página. Convidamos você a consultar esta página regularmente para se manter informado." },
-        { "title": "Contato", "body": "Para qualquer dúvida sobre estes termos de uso, você pode nos contatar através das informações disponíveis em nossa página de contato." }
+        { "title": "Objeto e aceitação", "body": "O Serviço permite jogar basquetebol 1 contra 1, desafiar adversários, registar partidas e consultar classificações. Ao criar uma conta ou utilizar a aplicação ou o site, reconhece ter lido estes TdU e compromete-se a cumpri-los. Se não os aceitar, não utilize o Serviço." },
+        { "title": "Uso do Serviço", "body": "Compromete-se a utilizar a aplicação e o site em conformidade com a lei em vigor e de forma leal. São estritamente proibidos: qualquer uso fraudulento, abusivo ou ilegal, a criação de contas falsas, a manipulação de pontuações ou classificações, o assédio a outros utilizadores e qualquer ato que prejudique a segurança ou o bom funcionamento do Serviço. O conteúdo do site é informativo; a aplicação destina-se à organização e acompanhamento de partidas 1v1." },
+        { "title": "Conta de utilizador", "body": "O acesso a certas funcionalidades do Serviço (nomeadamente o registo de partidas e a classificação) requer a criação de uma conta. É responsável pela confidencialidade das suas credenciais e por toda a atividade na sua conta. Deve fornecer informações verdadeiras e mantê-las atualizadas." },
+        { "title": "Propriedade intelectual", "body": "Todo o conteúdo do Serviço (aplicação e site), incluindo textos, imagens, logotipos, vídeos, gráficos e software, está protegido por direitos de autor e outros direitos de propriedade intelectual da Court Clash ou dos seus licenciantes. Qualquer reprodução, modificação, distribuição ou uso não autorizado é estritamente proibido." },
+        { "title": "Responsabilidade", "body": "Esforçamo-nos por garantir o bom funcionamento do Serviço e a exatidão das informações divulgadas. Não podemos, porém, garantir disponibilidade ininterrupta ou ausência de erros. Declinamos qualquer responsabilidade por danos diretos ou indiretos resultantes da utilização ou da impossibilidade de utilizar o Serviço, nos limites permitidos por lei." },
+        { "title": "Links externos", "body": "O site pode conter links para sites de terceiros (por ex. lojas de aplicações). Não somos responsáveis pelo conteúdo, práticas ou disponibilidade desses sites. O acesso a esses sites é por sua conta e risco." },
+        { "title": "Alterações dos termos", "body": "Reservamo-nos o direito de modificar estes TdU a qualquer momento. As alterações entram em vigor após a publicação nesta página (ou na aplicação). Convidamo-lo a consultar esta página regularmente. A continuação da utilização do Serviço após alteração equivale à aceitação das novas condições." },
+        { "title": "Contato", "body": "Para qualquer dúvida sobre estes termos de uso, pode contactar-nos em contact@courtclash.app ou através das informações disponíveis na nossa página de contacto." }
       ]
     },
     "privacyPage": {
@@ -266,11 +267,18 @@
     "appStoreAlt": "App Store",
     "ranking": "Classificação",
     "totalMatches": "Partidas jogadas",
-    "winRate": "Vitórias",
+    "winRate": "Taxa de vitórias",
     "streak": "Sequência",
     "opponents": "Adversários",
     "lastMatch": "Última partida",
     "basketsScored": "Cestas marcadas",
-    "basketsReceived": "Cestas sofridas"
+    "basketsReceived": "Cestas sofridas",
+    "statistics": "Estatísticas",
+    "points": "Pontos",
+    "wins": "Vitórias",
+    "losses": "Derrotas",
+    "avgPtsScored": "Pts marcados méd.",
+    "avgPtsReceived": "Pts sofridos méd.",
+    "lastGames": "Últimas partidas"
   }
 }

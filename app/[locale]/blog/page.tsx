@@ -16,7 +16,7 @@ const BLOG_ARTICLE_IMAGES: Record<string, string> = {
 
 const FACEBOOK_URL = 'https://www.facebook.com/courtclash';
 const INSTAGRAM_URL = 'https://www.instagram.com/courtclash.app/';
-const TIKTOK_URL = 'https://www.tiktok.com/@courtclash';
+const TIKTOK_URL = 'https://www.tiktok.com/@courtclash.app';
 
 interface BlogPageProps {
   params: Promise<{ locale: string }>;

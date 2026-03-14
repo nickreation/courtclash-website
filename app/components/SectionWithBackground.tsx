@@ -53,8 +53,8 @@ export function SectionWithBackground({
           sizes="100vw"
           priority={false}
         />
+        <div className={`absolute inset-0 ${overlayClass}`} aria-hidden />
       </motion.div>
-      <div className={`absolute inset-0 -z-[1] ${overlayClass}`} aria-hidden />
       <div className="relative z-0">{children}</div>
     </div>
   );

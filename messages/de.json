@@ -45,16 +45,17 @@
     "termsPage": {
       "title": "Nutzungsbedingungen",
       "backToHome": "Zur Startseite",
-      "intro": "Willkommen auf unserer Website. Mit dem Zugriff auf diese Seite akzeptieren Sie diese Nutzungsbedingungen. Bitte lesen Sie sie aufmerksam, bevor Sie fortfahren.",
-      "closing": "Mit der weiteren Nutzung unserer Website akzeptieren Sie diese Bedingungen vollständig. Vielen Dank für Ihr Vertrauen und Ihren Besuch.",
+      "intro": "Willkommen bei Court Clash. Diese Nutzungsbedingungen (AGB) gelten für den Service, d. h. die Court-Clash-App und die Website courtclash.app. Mit der Nutzung der App oder der Website akzeptieren Sie diese AGB. Bitte lesen Sie sie aufmerksam.",
+      "closing": "Mit der weiteren Nutzung des Service (App oder Website) akzeptieren Sie diese Bedingungen vollständig. Vielen Dank für Ihr Vertrauen.",
       "sections": [
-        { "title": "Annahme der Bedingungen", "body": "Mit der Nutzung dieser Website bestätigen Sie, diese Nutzungsbedingungen gelesen zu haben und sie einzuhalten. Wenn Sie diese Bedingungen nicht akzeptieren, nutzen Sie unsere Website bitte nicht." },
-        { "title": "Nutzung der Website", "body": "Die Inhalte dieser Website dienen nur zu Informationszwecken. Sie verpflichten sich, diese Website in Übereinstimmung mit den geltenden Gesetzen und Vorschriften zu nutzen. Jede betrügerische, missbräuchliche oder illegale Nutzung ist strengstens untersagt." },
-        { "title": "Geistiges Eigentum", "body": "Alle Inhalte auf dieser Website, einschließlich Texte, Bilder, Logos, Videos und Grafiken, sind durch Urheberrecht und andere Rechte des geistigen Eigentums geschützt. Jede unerlaubte Vervielfältigung, Änderung, Verbreitung oder Nutzung ist strengstens untersagt." },
-        { "title": "Haftung", "body": "Wir bemühen uns um genaue und aktuelle Informationen, können jedoch die Richtigkeit oder Vollständigkeit der auf dieser Website enthaltenen Informationen nicht garantieren. Wir lehnen jede Haftung für Fehler, Auslassungen oder aus der Nutzung dieser Informationen resultierende Ergebnisse ab." },
-        { "title": "Externe Links", "body": "Unsere Website kann Links zu Websites Dritter enthalten. Wir sind nicht verantwortlich für den Inhalt dieser Websites, ihre Praktiken oder ihre Verfügbarkeit. Der Zugang zu diesen Websites erfolgt auf eigenes Risiko." },
-        { "title": "Änderungen der Bedingungen", "body": "Wir behalten uns das Recht vor, diese Nutzungsbedingungen jederzeit zu ändern. Änderungen treten mit der Veröffentlichung auf dieser Seite in Kraft. Wir empfehlen Ihnen, diese Seite regelmäßig auf Aktualisierungen zu überprüfen." },
-        { "title": "Kontakt", "body": "Bei Fragen zu diesen Nutzungsbedingungen können Sie uns über die auf unserer Kontaktseite verfügbaren Informationen erreichen." }
+        { "title": "Zweck und Annahme", "body": "Der Service ermöglicht 1-gegen-1-Basketball, das Herausfordern von Gegnern, die Erfassung von Spielen und die Anzeige von Ranglisten. Mit der Erstellung eines Kontos oder der Nutzung der App bzw. Website bestätigen Sie, diese AGB gelesen zu haben und sie einzuhalten. Wenn Sie diese Bedingungen nicht akzeptieren, nutzen Sie den Service bitte nicht." },
+        { "title": "Nutzung des Service", "body": "Sie verpflichten sich, die App und die Website in Übereinstimmung mit den geltenden Gesetzen und fair zu nutzen. Strengstens untersagt sind: betrügerische, missbräuchliche oder illegale Nutzung, das Anlegen von Fake-Accounts, die Manipulation von Ergebnissen oder Ranglisten, die Belästigung anderer Nutzer sowie alles, was die Sicherheit oder das ordnungsgemäße Funktionieren des Service beeinträchtigt. Die Website-Inhalte dienen der Information; die App dient der Organisation und Nachverfolgung von 1v1-Spielen." },
+        { "title": "Benutzerkonto", "body": "Der Zugang zu bestimmten Funktionen des Service (u. a. Spiele erfassen und Ranglisten) setzt ein Konto voraus. Sie sind für die Vertraulichkeit Ihrer Zugangsdaten und alle Aktivitäten unter Ihrem Konto verantwortlich. Sie müssen korrekte Angaben machen und diese aktuell halten." },
+        { "title": "Geistiges Eigentum", "body": "Alle Inhalte des Service (App und Website), einschließlich Texte, Bilder, Logos, Videos, Grafiken und Software, sind durch Urheberrecht und andere Rechte des geistigen Eigentums von Court Clash oder seinen Lizenzgebern geschützt. Jede unerlaubte Vervielfältigung, Änderung, Verbreitung oder Nutzung ist strengstens untersagt." },
+        { "title": "Haftung", "body": "Wir bemühen uns um das ordnungsgemäße Funktionieren des Service und die Richtigkeit der bereitgestellten Informationen. Wir können jedoch keine unterbrechungsfreie Verfügbarkeit oder Fehlerfreiheit garantieren. Wir lehnen jede Haftung für direkte oder indirekte Schäden ab, die aus der Nutzung oder der Unmöglichkeit der Nutzung des Service entstehen, soweit gesetzlich zulässig." },
+        { "title": "Externe Links", "body": "Die Website kann Links zu Drittanbieter-Seiten enthalten (z. B. App-Stores). Wir sind nicht verantwortlich für Inhalt, Praktiken oder Verfügbarkeit dieser Seiten. Der Zugriff erfolgt auf eigenes Risiko." },
+        { "title": "Änderungen der Bedingungen", "body": "Wir behalten uns vor, diese AGB jederzeit zu ändern. Änderungen treten mit der Veröffentlichung auf dieser Seite (oder in der App) in Kraft. Wir empfehlen, diese Seite regelmäßig zu prüfen. Die fortgesetzte Nutzung des Service nach Änderungen gilt als Annahme der neuen Bedingungen." },
+        { "title": "Kontakt", "body": "Bei Fragen zu diesen Nutzungsbedingungen erreichen Sie uns unter contact@courtclash.app oder über die Angaben auf unserer Kontaktseite." }
       ]
     },
     "privacyPage": {
@@ -271,6 +272,13 @@
     "opponents": "Gegner",
     "lastMatch": "Letztes Spiel",
     "basketsScored": "Körbe erzielt",
-    "basketsReceived": "Körbe kassiert"
+    "basketsReceived": "Körbe kassiert",
+    "statistics": "Statistiken",
+    "points": "Punkte",
+    "wins": "Siege",
+    "losses": "Niederlagen",
+    "avgPtsScored": "Ø Punkte erzielt",
+    "avgPtsReceived": "Ø Punkte kassiert",
+    "lastGames": "Letzte Spiele"
   }
 }

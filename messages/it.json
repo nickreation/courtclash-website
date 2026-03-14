@@ -45,16 +45,17 @@
     "termsPage": {
       "title": "Termini e condizioni",
       "backToHome": "Torna alla home",
-      "intro": "Benvenuto sul nostro sito. Accedendo a questo sito, accetti i presenti termini di utilizzo. Leggili attentamente prima di continuare.",
-      "closing": "Continuando a utilizzare il nostro sito, accetti integralmente questi termini. Grazie per la tua fiducia e la tua visita.",
+      "intro": "Benvenuto su Court Clash. I presenti termini e condizioni (T&C) si applicano al Servizio, ovvero all'app Court Clash e al sito courtclash.app. Utilizzando l'app o il sito, accetti questi T&C. Leggili attentamente.",
+      "closing": "Continuando a utilizzare il Servizio (app o sito), accetti integralmente questi termini. Grazie per la tua fiducia.",
       "sections": [
-        { "title": "Accettazione dei termini", "body": "Utilizzando questo sito, riconosci di aver letto i presenti termini e di impegnarti a rispettarli. Se non li accetti, non utilizzare il nostro sito." },
-        { "title": "Uso del sito", "body": "Il contenuto di questo sito è fornito solo a scopo informativo. Ti impegni a utilizzare questo sito in conformità con le leggi e i regolamenti vigenti. Qualsiasi uso fraudolento, abusivo o illegale è severamente vietato." },
-        { "title": "Proprietà intellettuale", "body": "Tutti i contenuti di questo sito, inclusi testi, immagini, loghi, video e grafiche, sono protetti da diritti d'autore e altri diritti di proprietà intellettuale. Qualsiasi riproduzione, modifica, distribuzione o utilizzo non autorizzato è severamente vietato." },
-        { "title": "Responsabilità", "body": "Ci sforziamo di fornire informazioni accurate e aggiornate, ma non possiamo garantire l'accuratezza o la completezza delle informazioni su questo sito. Decliniamo ogni responsabilità per errori, omissioni o risultati derivanti dall'uso di tali informazioni." },
-        { "title": "Link esterni", "body": "Il nostro sito può contenere link a siti di terze parti. Non siamo responsabili del contenuto di questi siti, delle loro pratiche o della loro disponibilità. L'accesso a questi siti è a tuo rischio." },
-        { "title": "Modifiche dei termini", "body": "Ci riserviamo il diritto di modificare questi termini in qualsiasi momento. Le modifiche entreranno in vigore alla pubblicazione su questa pagina. Ti invitiamo a consultare regolarmente questa pagina per eventuali aggiornamenti." },
-        { "title": "Contatto", "body": "Per qualsiasi domanda su questi termini di utilizzo, puoi contattarci tramite le informazioni disponibili sulla nostra pagina contatti." }
+        { "title": "Oggetto e accettazione", "body": "Il Servizio consente di giocare a basket 1 contro 1, sfidare avversari, registrare partite e consultare le classifiche. Creando un account o utilizzando l'app o il sito, riconosci di aver letto i presenti T&C e di impegnarti a rispettarli. Se non li accetti, non utilizzare il Servizio." },
+        { "title": "Uso del Servizio", "body": "Ti impegni a utilizzare l'app e il sito in conformità con le leggi vigenti e in modo leale. Sono severamente vietati: qualsiasi uso fraudolento, abusivo o illegale, la creazione di account falsi, la manipolazione di punteggi o classifiche, il molestare altri utenti e qualsiasi azione che comprometta la sicurezza o il corretto funzionamento del Servizio. Il contenuto del sito è a scopo informativo; l'app è destinata all'organizzazione e al monitoraggio delle partite 1v1." },
+        { "title": "Account utente", "body": "L'accesso ad alcune funzionalità del Servizio (in particolare la registrazione delle partite e la classifica) richiede la creazione di un account. Sei responsabile della riservatezza delle tue credenziali e di tutte le attività svolte dal tuo account. Devi fornire informazioni veritiere e mantenerle aggiornate." },
+        { "title": "Proprietà intellettuale", "body": "Tutti i contenuti del Servizio (app e sito), inclusi testi, immagini, loghi, video, grafiche e software, sono protetti da diritti d'autore e altri diritti di proprietà intellettuale di Court Clash o dei suoi licenzianti. Qualsiasi riproduzione, modifica, distribuzione o utilizzo non autorizzato è severamente vietato." },
+        { "title": "Responsabilità", "body": "Ci sforziamo di garantire il corretto funzionamento del Servizio e l'accuratezza delle informazioni fornite. Non possiamo tuttavia garantire una disponibilità ininterrotta o l'assenza di errori. Decliniamo ogni responsabilità per danni diretti o indiretti derivanti dall'uso o dall'impossibilità di utilizzare il Servizio, nei limiti consentiti dalla legge." },
+        { "title": "Link esterni", "body": "Il sito può contenere link a siti di terze parti (ad es. store di app). Non siamo responsabili del contenuto, delle pratiche o della disponibilità di tali siti. L'accesso a tali siti è a tuo rischio." },
+        { "title": "Modifiche dei termini", "body": "Ci riserviamo il diritto di modificare questi T&C in qualsiasi momento. Le modifiche entrano in vigore alla pubblicazione su questa pagina (o nell'app). Ti invitiamo a consultare regolarmente questa pagina. La prosecuzione dell'uso del Servizio dopo una modifica costituisce accettazione delle nuove condizioni." },
+        { "title": "Contatto", "body": "Per qualsiasi domanda su questi termini di utilizzo, puoi contattarci a contact@courtclash.app o tramite le informazioni disponibili sulla nostra pagina contatti." }
       ]
     },
     "privacyPage": {
@@ -271,6 +272,13 @@
     "opponents": "Avversari",
     "lastMatch": "Ultima partita",
     "basketsScored": "Canestri segnati",
-    "basketsReceived": "Canestri subiti"
+    "basketsReceived": "Canestri subiti",
+    "statistics": "Statistiche",
+    "points": "Punti",
+    "wins": "Vittorie",
+    "losses": "Sconfitte",
+    "avgPtsScored": "Pts segnati media",
+    "avgPtsReceived": "Pts subiti media",
+    "lastGames": "Ultime partite"
   }
 }

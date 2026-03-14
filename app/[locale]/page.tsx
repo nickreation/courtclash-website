@@ -256,7 +256,7 @@ export default async function HomePage({ params }: PageProps) {
                 <div className="mt-3 flex justify-center gap-4 md:justify-start text-hero-gradient">
                   <a href="https://www.facebook.com/courtclash" target="_blank" rel="noopener noreferrer" className="hover:opacity-90" aria-label="Facebook">Facebook</a>
                   <a href={INSTAGRAM_URL} target="_blank" rel="noopener noreferrer" className="hover:opacity-90" aria-label="Instagram">Instagram</a>
-                  <a href="https://www.tiktok.com/@courtclash" target="_blank" rel="noopener noreferrer" className="hover:opacity-90" aria-label="TikTok">TikTok</a>
+                  <a href="https://www.tiktok.com/@courtclash.app" target="_blank" rel="noopener noreferrer" className="hover:opacity-90" aria-label="TikTok">TikTok</a>
                 </div>
               </div>
               <div className="text-center md:text-right">

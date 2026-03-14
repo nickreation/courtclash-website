@@ -3,6 +3,7 @@ import { getPublicPlayerById } from '@/lib/getPublicPlayer';
 import { getDictionary } from '@/lib/i18n';
 import type { Locale } from '@/lib/i18n';
 import { isValidLocale } from '@/lib/i18n';
+import { LocaleSwitcher } from '@/app/components/LocaleSwitcher';
 import { PlayerPageContent } from './PlayerPageContent';
 
 const UUID_REGEX =
@@ -32,7 +33,10 @@ export default async function PlayerPage({ params }: PageProps) {
 
   if (error || !player) {
     return (
-      <main className="min-h-screen flex flex-col items-center justify-center px-6 bg-background">
+      <main className="min-h-screen flex flex-col items-center justify-center px-6 bg-background relative">
+        <div className="absolute top-4 right-4">
+          <LocaleSwitcher currentLocale={locale as Locale} />
+        </div>
         <h1 className="text-2xl font-bold text-text mb-2">
           {t.notFound}
         </h1>

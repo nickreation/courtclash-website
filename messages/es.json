@@ -45,16 +45,17 @@
     "termsPage": {
       "title": "Términos de uso",
       "backToHome": "Volver al inicio",
-      "intro": "Bienvenido a nuestro sitio web. Al acceder a este sitio, acepta estos términos de uso. Léalos atentamente antes de continuar.",
-      "closing": "Al seguir utilizando nuestro sitio, acepta estos términos en su totalidad. Gracias por su confianza y su visita.",
+      "intro": "Bienvenido a Court Clash. Los presentes términos de uso (TdU) se aplican al Servicio, es decir, a la aplicación móvil Court Clash y al sitio web courtclash.app. Al utilizar la aplicación o el sitio, acepta estos TdU. Léalos atentamente.",
+      "closing": "Al seguir utilizando el Servicio (aplicación o sitio), acepta estos términos en su totalidad. Gracias por su confianza.",
       "sections": [
-        { "title": "Aceptación de los términos", "body": "Al utilizar este sitio, reconoce haber leído estos términos de uso y se compromete a cumplirlos. Si no los acepta, no utilice nuestro sitio." },
-        { "title": "Uso del sitio", "body": "El contenido de este sitio se proporciona únicamente con fines informativos. Se compromete a utilizar este sitio de conformidad con las leyes y normativas aplicables. Cualquier uso fraudulento, abusivo o ilegal está estrictamente prohibido." },
-        { "title": "Propiedad intelectual", "body": "Todo el contenido de este sitio, incluidos textos, imágenes, logotipos, vídeos y gráficos, está protegido por derechos de autor y otros derechos de propiedad intelectual. Cualquier reproducción, modificación, distribución o uso no autorizado está estrictamente prohibido." },
-        { "title": "Responsabilidad", "body": "Nos esforzamos por ofrecer información exacta y actualizada, pero no podemos garantizar la exactitud o exhaustividad de la información en este sitio. Declinamos toda responsabilidad por errores, omisiones o resultados derivados del uso de esta información." },
-        { "title": "Enlaces externos", "body": "Nuestro sitio puede contener enlaces a sitios de terceros. No somos responsables del contenido de estos sitios, sus prácticas o su disponibilidad. El acceso a estos sitios es bajo su propia responsabilidad." },
-        { "title": "Modificaciones de los términos", "body": "Nos reservamos el derecho de modificar estos términos de uso en cualquier momento. Los cambios entrarán en vigor al publicarse en esta página. Le invitamos a consultar esta página con regularidad para estar al día." },
-        { "title": "Contacto", "body": "Para cualquier pregunta sobre estos términos de uso, puede contactarnos a través de la información disponible en nuestra página de contacto." }
+        { "title": "Objeto y aceptación", "body": "El Servicio permite jugar al baloncesto 1 contra 1, desafiar a adversarios, registrar partidos y consultar clasificaciones. Al crear una cuenta o utilizar la aplicación o el sitio, reconoce haber leído estos TdU y se compromete a cumplirlos. Si no los acepta, no utilice el Servicio." },
+        { "title": "Uso del Servicio", "body": "Se compromete a utilizar la aplicación y el sitio de conformidad con la legislación vigente y con un uso leal. Están estrictamente prohibidos: cualquier uso fraudulento, abusivo o ilegal, la creación de cuentas falsas, la manipulación de puntuaciones o clasificaciones, el acoso a otros usuarios y cualquier acto que afecte a la seguridad o al buen funcionamiento del Servicio. El contenido del sitio es informativo; la aplicación está destinada a la organización y seguimiento de partidos 1v1." },
+        { "title": "Cuenta de usuario", "body": "El acceso a ciertas funciones del Servicio (en particular el registro de partidos y la clasificación) requiere la creación de una cuenta. Es responsable de la confidencialidad de sus credenciales y de toda actividad realizada desde su cuenta. Debe facilitar información veraz y mantenerla actualizada." },
+        { "title": "Propiedad intelectual", "body": "Todo el contenido del Servicio (aplicación y sitio), incluidos textos, imágenes, logotipos, vídeos, gráficos y software, está protegido por derechos de autor y otros derechos de propiedad intelectual de Court Clash o sus licenciantes. Cualquier reproducción, modificación, distribución o uso no autorizado está estrictamente prohibido." },
+        { "title": "Responsabilidad", "body": "Nos esforzamos por garantizar el buen funcionamiento del Servicio y la exactitud de la información difundida. No podemos, sin embargo, garantizar una disponibilidad ininterrumpida ni la ausencia de errores. Declinamos toda responsabilidad por daños directos o indirectos derivados del uso o la imposibilidad de utilizar el Servicio, en la medida permitida por la ley." },
+        { "title": "Enlaces externos", "body": "El sitio puede contener enlaces a sitios de terceros (por ejemplo, tiendas de aplicaciones). No somos responsables del contenido, las prácticas o la disponibilidad de estos sitios. El acceso a ellos es bajo su propia responsabilidad." },
+        { "title": "Modificaciones de los términos", "body": "Nos reservamos el derecho de modificar estos TdU en cualquier momento. Las modificaciones entran en vigor al publicarse en esta página (o en la aplicación). Le invitamos a consultar esta página con regularidad. La continuación del uso del Servicio tras una modificación implica la aceptación de las nuevas condiciones." },
+        { "title": "Contacto", "body": "Para cualquier pregunta sobre estos términos de uso, puede contactarnos en contact@courtclash.app o a través de la información disponible en nuestra página de contacto." }
       ]
     },
     "privacyPage": {
@@ -266,11 +267,18 @@
     "appStoreAlt": "App Store",
     "ranking": "Clasificación",
     "totalMatches": "Partidos jugados",
-    "winRate": "Victorias",
+    "winRate": "Tasa de victorias",
     "streak": "Racha",
     "opponents": "Rivales",
     "lastMatch": "Último partido",
     "basketsScored": "Canastas anotadas",
-    "basketsReceived": "Canastas recibidas"
+    "basketsReceived": "Canastas recibidas",
+    "statistics": "Estadísticas",
+    "points": "Puntos",
+    "wins": "Victorias",
+    "losses": "Derrotas",
+    "avgPtsScored": "Pts anotados prom.",
+    "avgPtsReceived": "Pts recibidos prom.",
+    "lastGames": "Últimos partidos"
   }
 }

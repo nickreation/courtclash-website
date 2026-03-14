@@ -45,16 +45,17 @@
     "termsPage": {
       "title": "Terms of Use",
       "backToHome": "Back to home",
-      "intro": "Welcome to our website. By accessing this site, you accept these terms of use. Please read them carefully before continuing.",
-      "closing": "By continuing to use our site, you accept these terms in full. Thank you for your trust and your visit.",
+      "intro": "Welcome to Court Clash. These Terms of Use (ToU) apply to the Service, i.e. the Court Clash mobile application and the courtclash.app website. By using the app or the website, you accept these ToU. Please read them carefully.",
+      "closing": "By continuing to use the Service (app or website), you accept these terms in full. Thank you for your trust.",
       "sections": [
-        { "title": "Acceptance of terms", "body": "By using this site, you acknowledge that you have read these terms of use and agree to comply with them. If you do not accept these terms, please do not use our site." },
-        { "title": "Use of the site", "body": "The content of this site is provided for informational purposes only. You agree to use this site in accordance with applicable laws and regulations. Any fraudulent, abusive or illegal use is strictly prohibited." },
-        { "title": "Intellectual property", "body": "All content on this site, including but not limited to texts, images, logos, videos and graphics, is protected by copyright and other intellectual property rights. Any unauthorised reproduction, modification, distribution or use is strictly prohibited." },
-        { "title": "Liability", "body": "We strive to provide accurate and up-to-date information, but we cannot guarantee the accuracy or completeness of the information on this site. We disclaim any liability for errors, omissions or results obtained from the use of this information." },
-        { "title": "External links", "body": "Our site may contain links to third-party sites. We are not responsible for the content of these sites, their practices or their availability. Access to these sites is at your own risk." },
-        { "title": "Changes to terms", "body": "We reserve the right to modify these terms of use at any time. Changes will take effect upon publication on this page. We encourage you to check this page regularly for updates." },
-        { "title": "Contact", "body": "For any questions regarding these terms of use, you can contact us via the information available on our contact page." }
+        { "title": "Purpose and acceptance", "body": "The Service allows you to play 1v1 basketball, challenge opponents, record matches and view rankings. By creating an account or using the app or website, you acknowledge that you have read these ToU and agree to comply with them. If you do not accept these terms, please do not use the Service." },
+        { "title": "Use of the Service", "body": "You agree to use the app and website in accordance with applicable laws and in a fair manner. The following are strictly prohibited: any fraudulent, abusive or illegal use, creating fake accounts, manipulating scores or rankings, harassing other users, or any action that undermines the security or proper functioning of the Service. Website content is for informational purposes; the app is intended for organising and tracking 1v1 matches." },
+        { "title": "User account", "body": "Access to certain features of the Service (including match recording and rankings) requires creating an account. You are responsible for keeping your login details confidential and for all activity under your account. You must provide accurate information and keep it up to date." },
+        { "title": "Intellectual property", "body": "All content of the Service (app and website), including but not limited to texts, images, logos, videos, graphics and software, is protected by copyright and other intellectual property rights held by Court Clash or its licensors. Any unauthorised reproduction, modification, distribution or use is strictly prohibited." },
+        { "title": "Liability", "body": "We strive to ensure the proper functioning of the Service and the accuracy of the information provided. We cannot, however, guarantee uninterrupted availability or the absence of errors. We disclaim any liability for direct or indirect damages resulting from the use or inability to use the Service, to the extent permitted by law." },
+        { "title": "External links", "body": "The website may contain links to third-party sites (e.g. app stores). We are not responsible for the content, practices or availability of these sites. Access to these sites is at your own risk." },
+        { "title": "Changes to terms", "body": "We reserve the right to modify these ToU at any time. Changes take effect upon publication on this page (or in the app). We encourage you to check this page regularly. Continued use of the Service after changes constitutes acceptance of the new terms." },
+        { "title": "Contact", "body": "For any questions regarding these Terms of Use, you can contact us at contact@courtclash.app or via the information available on our contact page." }
       ]
     },
     "privacyPage": {
@@ -283,6 +284,13 @@
     "opponents": "Opponents",
     "lastMatch": "Last match",
     "basketsScored": "Baskets scored",
-    "basketsReceived": "Baskets received"
+    "basketsReceived": "Baskets received",
+    "statistics": "Statistics",
+    "points": "Points",
+    "wins": "Wins",
+    "losses": "Losses",
+    "avgPtsScored": "Avg. pts scored",
+    "avgPtsReceived": "Avg. pts received",
+    "lastGames": "Last games"
   }
 }

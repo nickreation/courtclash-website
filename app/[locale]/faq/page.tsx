@@ -3,6 +3,7 @@ import { getDictionary } from '@/lib/i18n';
 import type { Locale } from '@/lib/i18n';
 import { isValidLocale } from '@/lib/i18n';
 import { notFound } from 'next/navigation';
+import { getGooglePlayBadgeUrl, getAppStoreBadgePath } from '@/lib/storeBadges';
 import { Header } from '../../components/Header';
 import { AnimatedSection } from '../../components/AnimatedSection';
 
@@ -132,29 +133,40 @@ export default async function FAQPage({ params }: PageProps) {
                   ))}
                 </ul>
               )}
-              <div className="mt-10 flex flex-wrap justify-center gap-4">
+              <div className="mt-10 flex flex-wrap justify-center items-center gap-4">
                 <a
                   href={PLAY_STORE_URL}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center rounded-lg bg-primary px-6 py-3 font-medium text-primary-foreground hover:bg-primary/90"
+                  className="inline-flex items-center justify-center overflow-hidden hover:opacity-90 transition-opacity shrink-0"
+                  style={{ width: 130, height: 44 }}
                 >
-                  Google Play
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
+                    src={getGooglePlayBadgeUrl(locale as Locale)}
+                    alt={t.nav.googlePlay}
+                    width={130}
+                    height={44}
+                    style={{ width: 130, height: 44, objectFit: 'contain' }}
+                  />
                 </a>
                 <a
                   href={APP_STORE_URL}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center rounded-lg bg-primary px-6 py-3 font-medium text-primary-foreground hover:bg-primary/90"
+                  className="inline-flex items-center justify-center overflow-hidden hover:opacity-90 transition-opacity shrink-0"
+                  style={{ width: 130, height: 44 }}
                 >
-                  App Store
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
+                    src={getAppStoreBadgePath(locale as Locale)}
+                    alt={t.nav.appStore}
+                    width={130}
+                    height={44}
+                    style={{ width: 130, height: 44, objectFit: 'contain' }}
+                  />
                 </a>
               </div>
-              <p className="mt-6">
-                <Link href={`/${locale}`} className="text-primary font-medium hover:underline">
-                  {'ctaButton' in faq ? faq.ctaButton : ''} →
-                </Link>
-              </p>
             </div>
           </AnimatedSection>
         )}
@@ -195,7 +207,7 @@ export default async function FAQPage({ params }: PageProps) {
                     Instagram
                   </a>
                   <a
-                    href="https://www.tiktok.com/@courtclash"
+                    href="https://www.tiktok.com/@courtclash.app"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:opacity-90"

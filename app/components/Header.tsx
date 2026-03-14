@@ -10,7 +10,7 @@ import { getGooglePlayBadgeUrl, getAppStoreBadgePath } from '@/lib/storeBadges';
 
 const INSTAGRAM_URL = 'https://www.instagram.com/courtclash.app/';
 const FACEBOOK_URL = 'https://www.facebook.com/courtclash';
-const TIKTOK_URL = 'https://www.tiktok.com/@courtclash';
+const TIKTOK_URL = 'https://www.tiktok.com/@courtclash.app';
 const PLAY_STORE_URL = 'https://play.google.com/store/apps/details?id=com.nickreation.courtclash.v2';
 const APP_STORE_URL = 'https://apps.apple.com/us/app/court-clash/id6752360567';
 

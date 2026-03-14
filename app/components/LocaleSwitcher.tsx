@@ -7,13 +7,14 @@ import { locales } from '@/lib/i18n';
 
 const LOCALE_COOKIE = 'NEXT_LOCALE';
 
-const labels: Record<Locale, string> = {
-  fr: 'FR',
-  en: 'EN',
-  it: 'IT',
-  de: 'DE',
-  es: 'ES',
-  pt: 'PT',
+/** Drapeaux des pays pour chaque locale (pt = Brésil, en = USA) */
+const flags: Record<Locale, string> = {
+  fr: '🇫🇷',
+  en: '🇺🇸',
+  it: '🇮🇹',
+  de: '🇩🇪',
+  es: '🇪🇸',
+  pt: '🇧🇷',
 };
 
 const ariaLabels: Record<Locale, string> = {
@@ -70,7 +71,7 @@ export function LocaleSwitcher({ currentLocale }: LocaleSwitcherProps) {
         aria-haspopup="listbox"
         id="locale-switcher-trigger"
       >
-        <span>{labels[currentLocale]}</span>
+        <span className="text-xl leading-none" role="img" aria-hidden>{flags[currentLocale]}</span>
         <svg
           className={`h-4 w-4 text-text-secondary transition-transform ${isOpen ? 'rotate-180' : ''}`}
           fill="none"
@@ -86,21 +87,21 @@ export function LocaleSwitcher({ currentLocale }: LocaleSwitcherProps) {
         <ul
           role="listbox"
           aria-labelledby="locale-switcher-trigger"
-          className="absolute right-0 top-full z-50 mt-1 min-w-[5rem] rounded-lg border border-border bg-surface py-1 shadow-lg"
+          className="absolute right-0 top-full z-50 mt-1 w-fit min-w-0 rounded-lg border border-border bg-surface py-1 shadow-lg"
         >
           {locales.map((loc) => (
             <li key={loc} role="option" aria-selected={loc === currentLocale}>
               <button
                 type="button"
                 onClick={() => loc !== currentLocale && switchTo(loc)}
-                className={`flex w-full px-3 py-2 text-left text-sm font-medium transition-colors ${
+                className={`flex w-full items-center justify-center px-2.5 py-1.5 text-left text-sm font-medium transition-colors ${
                   loc === currentLocale
                     ? 'bg-primary/15 text-primary'
                     : 'text-text-secondary hover:bg-surface/80 hover:text-text'
                 }`}
                 aria-label={ariaLabels[loc]}
               >
-                {labels[loc]}
+                <span className="text-xl leading-none" role="img" aria-hidden>{flags[loc]}</span>
               </button>
             </li>
           ))}
